@@ -1,0 +1,5225 @@
+				
+		G	
+	 +F
+	 N*
+	#0)
+	%-20s%4.2f
+	%-20s%4d
+	%-20s[%4.2f,%4.2f]
+	(F#a
+	)02
+	+	H
+	/	[
+	0FBF9F
+	0dh*F F
+	5!13
+	8	(
+	9	E
+	::	:
+	<bB
+	?5|
+	?h?:?
+	B	;
+	C	P
+	H+x
+	HF	
+	HhC
+	I	H
+	K	M
+	L#iK
+	NDO
+	PEg
+	T	\	
+	X	e	W
+	]Ic1
+	a	2	
+	h	=
+	hAK
+	h|K
+	p	^
+	u+>
+	w	4
+	| =,
+	|*@
+ 		+
+ 	h	
+                
+       (%u lines all free)
+   ! 4
+   w
+  #R
+  --
+  CF
+  File "%q", line %d
+  ctrl-c -- interrupt a running program
+  ctrl-d -- on a blank line, do a soft reset of the board
+  ctrl-e -- on a blank line, enter paste mode
+ ! F
+ ! d
+ !' @
+ !.!
+ !@F
+ !jD
+ "(F
+ #(&6!
+ $-:<8
+ $YFPF
+ $\ 
+ %#I
+ %%a+
+ %(n-
+ )!6
+ )F.
+ +CC
+ ,3Z,
+ -%+
+ -- 
+ -> 1
+ -> 2
+ .*D
+ .-J3q6/8%4Z&u
+ /,]2
+ 0#[!T
+ 0(Fp
+ 0)4/
+ 0@hg
+ 0Ch
+ 2)S/
+ 3,d1K-
+ 33s?H
+ 3Cs
+ 3^h
+ 3mF
+ 3xb
+ 4#p
+ 5 H 
+ 5)+0)1
+ 50[
+ 6 !
+ 6!I
+ 6%y+
+ 7 E
+ 7"N
+ 7%t#~!
+ 9#x* 4
+ :7W5
+ ;"y
+ ?!!" !&
+ ?!-#a 
+ ?;5
+ C'(&b
+ C'F)k$q
+ CFv*
+ Ch	J
+ ChBz
+ D%/&
+ D,n1
+ DKC
+ F	I
+ F!F
+ F!I
+ F"F
+ F"k
+ F#b
+ F#i
+ F%I
+ F&a
+ F)F
+ F)J
+ F)i
+ F*D
+ F*F)F
+ F*FO
+ F*I
+ F+h
+ F0!
+ F1F
+ F1F5FB
+ F1J;C
+ F1i
+ F2F
+ F3F
+ F3F)F
+ F3FBF
+ F4p
+ F5I
+ F5K
+ F7I
+ F9F
+ F9F=FF
+ F9I
+ F9i
+ F;I
+ F;h
+ F=I
+ F?I
+ FAF
+ FAI
+ FOh
+ FZa
+ Fa':
+ Fai
+ Ff`p
+ FiF
+ Fii
+ FkJ
+ FnJ
+ G Z
+ I!H
+ J#s#
+ J$X&
+ J+d*
+ K!N
+ K2F
+ K@F]]
+ K`B#
+ M)O
+ No. of 1-blocks: %u, 2-blocks: %u, max blk sz: %u, max free sz: %u
+ Pev
+ R$r)80
+ R,g0U-
+ U"x 
+ U0Z Z
+ USBCUSBS
+ WC{
+ X0L
+ X`Z`
+ X}pG
+ Z 0
+ Zh#z
+ [ V W \ Y X ^
+ [*[%
+ [CRC
+ [FZF
+ ] ` 
+ _0!
+ _0k?
+ `c`B#
+ `sh
+ a(F
+ a2b
+ b"t#
+ b$m&y'
+ b0F
+ b1C
+ bzch
+ d$I
+ e"s
+ g >
+ g"3F
+ h)?-s'
+ h)F
+ h*S
+ h.D
+ h~h
+ i(X)
+ i0u 
+ i_(
+ import 
+ is of type %q
+ j		
+ l b e l0A
+ m I 
+ m%K()&
+ m,|+
+ p(`.3-
+ pG	
+ pG#
+ pG*)
+ pG-
+ pG8
+ pG@+
+ pGHh
+ pGKh
+ pGLa
+ pGO
+ pGf)
+ pGp
+ pGpGpG
+ pGpGpGpGpG
+ pGpk
+ r%9)G':
+ s)	*
+ v&j(
+ w"4
+ x'8-H(
+ { E
+ |!\
+ ~"3
+ ~"I
+! P 
+! pGBhK
+! pGo
+!! F
+!!/:7
+!"F@F$
+!"L)
+!#)8,
+!#F2F(F
+!#xbh
+!$/$o
+!&&5)j(
+!'e.
+!(F	J
+!(FB
+!(Fb`
+!)??????18
+!*`U
+!+F F
+!+F`j
+!+ash(F[h
+!0BD
+!3 ,
+!3&^"R
+!3F y
+!3F(F
+!4-'7e=%=^7
+!6&d$
+!7'^)
+!72G:
+!;$/!
+!;F`j
+!<"j
+!<+2&
+!>,j4+7
+!@#l
+!@Ch
+!@F)
+!AsC
+!B$k"
+!D#B%U'
+!D)s-
+!E$V 
+!F F
+!F F+h
+!F F+h	
+!F FO
+!F#P
+!F(F
+!F+F0F
+!F0F
+!F0h
+!F8F
+!FHF
+!FJF@F/h
+!FJF[F8F
+!FKFR
+!FME(
+!FhF
+!G*1*
+!J-s2s+U
+!JZ`?2Z`
+!K"e
+!L,s3
+!N 0
+!P&/'
+!T"&H
+!T$Q$P#
+!X 8 D#
+!Y`Z`
+!Yp]`
+![/j1
+![k@j
+!\+E-
+!_!A#
+!`G8
+!`h	
+!b F
+!bzch
+!c!"
+!ce F
+!d#S#
+!e-  
+!f1#=f=
+!h*F
+!h*F0F
+!hF	J
+!hF#J
+!i+)
+!i.)
+!i.)*
+!i0F
+!ibh
+!i{)
+!j&T($'V%
+!k FIBI
+!k-/(
+!l L
+!l' 'z
+!o,y/
+!pGIB
+!pXh
+!s*D/
+!u)*+x$
+!x%)
+!{%S-t(
+!}.R:,CYFzB*9F,
+"	! F
+"	Kb`#`
+" # 7 
+" +h
+" Ch
+" F!!
+" F'I
+" F-I
+" FU
+" FW
+" Fih
+"! F
+"!(K#z
+"!=$n%)
+"!F(
+"!F(F
+"!F0
+"!F8F
+"!F@ 
+"!FhF
+""b%
+""gZl
+"#'#
+"#'),02369;=?AEGIMOQZ\^_achjmopr~
+"#7/
+"#hb
+"#x F
+"#xb`#
+"$%Q)
+"$&)+16=AEFHJNRTVXZ\^`bdfhjloqtwz}
+"%&F%
+"%M%K(F
+"&'&2F
+"&1,
+"'''
+"'+5,
+"'t.84Z9`=
+"(.2
+"(F	
+"(F!D
+"(F1h
+"(FAF
+"(pip
+")F 
+")F F
+")F,#
+")F8F
+"*8?FbD
+"*:<>?|
+"+F0F
+"+xj`#
+".$e#u 
+".IO
+"0"F6
+"0"F[hF
+"0*h
+"0Bh
+"0Zh
+"0t`#x
+"1!#
+"1F 
+"1F F
+"1FHF
+"1F`j
+"2$w
+"2*V-
+"3$R
+"3F(F
+"3c3
+"3xr`#
+"6+01
+"8IPF
+"9F F
+"9F j
+"9F(F
+"9F0F
+"9F@ 
+"9FPF
+"9i F
+";xz`#
+"<#U">!A
+">KZf
+"@ !y
+"@Bh
+"@F9h
+"@FIFDK
+"A*B+
+"AF F
+"AF(F/
+"AFPF/
+"C 7
+"E"}
+"F!F;F
+"F&I&H
+"F(F
+"F)F
+"F)F0F
+"F+F
+"F1F
+"F1F(i
+"F1FhF7h
+"F8F
+"F8FA
+"F8h
+"F9F(F
+"FHF
+"FZE
+"Fih8
+"I'i#f
+"IF`j
+"J3y
+"KKZf
+"M+J+r! 
+"PF`I
+"QF	
+"QF F
+"S'p)
+"THA
+"V*R/
+"X"s'Z-
+"XhA
+"YF F
+"Z`t`#x
+"ZaO
+"Zp]`
+"[!}
+"[i`j
+"[l@j
+"[lhj		
+"_(O*(&
+"`jO
+"b"3
+"bb3111b
+"h	K
+"h#K
+"h*K
+"h,N
+"h/K
+"h>K
+"h?K
+"hGK
+"hJ@
+"hch!i
+"hch&iUh
+"i"n!|
+"ich
+"j+K
+"mO?I
+"o#!2
+"q"y`
+"r!]
+"s ;
+"sh!F(F
+"t,L8\@
+"t<D!F(F@"
+"u'R)
+"v?(
+"x3h
+"xK@c
+"y FQ
+"~(Q(
+#	<	k
+#	R$
+# "Mo
+# $ :
+# %M&K
+# +h+
+# F2h
+# FBF
+# FE
+# Frh
+# L$
+# a'
+# kh
+# pG
+# t`#x
+# ~ S 
+#!$^ 
+#!D1"]
+#!F$J%H
+#!F(F
+#!F+pQ
+#!F8F
+#!\#
+#!kA
+#"F F
+#"F0F
+#"m(F
+##9,
+##`6
+##`O
+##`p
+##ash[
+##dO
+##p!F
+#$--
+#$-|
+#$B(
+#%pcpc`8
+#%u.;!
+#'$A
+#(! FE
+#(F,
+#(F-
+#(FTJ
+#)F F
+#)F F2h
+#)F FH
+#)F h
+#)F2h F
+#)Frh
+#*7>
+#*F h
+#*F'! F
+#*F)F
+#*F1F
+#*F9F(F
+#+ \
+#+8L
+#+`p
+#+c F
+#. [
+#./>.
+#/*$/
+#/*9.h.
+#/O;b
+#0"F
+#0F+c
+#0Qh
+#0k`
+#2F F
+#2F0F
+#2h F
+#3`(F
+#4#y&
+#9F(F
+#9F(h2
+#9Fkc
+#:@*c
+#:F0F
+#:F1F F
+#;Qb
+#;U(F
+#;`O
+#<yO
+#>#+
+#?)x*
+#@Bc`
+#AF F
+#AFLF
+#BFAF
+#D ,K
+#E'4&
+#E,5&X
+#E`CpC
+#F"F!F0F
+#F(F"FO
+#F)FBh8F
+#F2F
+#F2F(F
+#FBFPFq
+#G!p
+#G$1!
+#I#H
+#I,r,
+#IF F
+#J (
+#JZ`
+#K#H
+#K+j,
+#K`pG
+#KjF
+#L1+4,+
+#MJMK
+#N&~&-)
+#N'R(
+#O 8
+#P'9'|"+
+#PFRF[FYF$
+#PFYF
+#R,22%9
+#S#}
+#ZF!F0F
+#["z!D!
+#[5gA
+#^CO
+#`!"j
+#`:`
+#`K	
+#`jh
+#`zh
+#al]
+#b(i&
+#b?;Sp?&:k?y
+#c`%`
+#cu?#O
+#d!c
+#em!}
+#f`cp(F
+#h%8'
+#h(D
+#h(F
+#h)F
+#h+D#``h
+#h2h"`3`
+#h;`
+#hC`
+#hXh#i
+#h`h
+#hfhe
+#hka F
+#i F"+
+#i"h
+#i#+
+#i$v!
+#i+D#a
+#i.+
+#i.+N
+#i<J<I5H
+#i=+
+#iF(F
+#i[]
+#ibi
+#il	
+#j-J.I&H
+#jC`
+#jF(F
+#jF)F8h
+#jF1F(F
+#jl)h
+#jzhh
+#k`+x4C#
+#l F%g
+#o$e }
+#p F
+#p(F
+#p0F
+#p7`*`
+#p``N
+#phqz
+#psh
+#q F
+#q(F
+#s {8
+#s"s#
+#t#D Q
+#t0F
+#u-[7
+#w0V7?53)
+#x =
+#x F
+#x*+W
+#x++
+#x++*
+#x.+
+#x/+
+#xr+#
+#z'K(M
+#{ ? 
+#{0D
+#{`rh
+#{qO
+#}%4 k
+#}1;
+#~!K
+#~)m(N
+#~-K%
+$ 6H
+$ F8
+$ FB
+$ PF
+$!!:
+$!$c
+$!c%
+$!y*!0u.
+$"2l2*/
+$"3*
+$"C*)
+$#,`+
+$#01
+$$ 0
+$$%g%p$
+$%.$4
+$':*
+$(O.
+$+xC
+$..Y0
+$0!#F
+$0)#
+$04 1J
+$0` F
+$2(N)Q'
+$24;U+
+$3$1
+$3'y"t
+$3*$*
+$3x#A
+$3x9x
+$=!g
+$@ F
+$G&R"
+$G)V-J.
+$G,-)
+$H W
+$I FA
+$I+b,4![	)
+$K$H
+$K$L
+$K(IZ]$Hdh
+$K./9
+$L-D0
+$Mk}
+$Q(0
+$R!8
+$R"~
+$S$d
+$S&[$
+$S*/.
+$U#;
+$V$)"
+$Z""#
+$Z(m.
+$Zh[K
+$[8R/w
+$d#m
+$e*%'
+$i F
+$i F8
+$i$/"
+$i0Q*
+$iCF:F1F(F
+$n";#
+$n:BM
+$r-;/
+$z848D&
+${ 7
+$~.x<EF
+%	N F
+% Q&
+%! F
+%!.c/
+%"]?
+%"f#
+%#!Q
+%#h[h
+%$ P
+%$%,"
+%$%<#
+%$%a%b%V%U%c%Q%W%]%\%[%
+%$)vIQ
+%$h`@
+%&"T
+%&,M040Z(
+%&ich
+%'2y>
+%'T.~1<0(,8'
+%(F8
+%)F F
+%)N h
+%*3k/
+%+'*%}
+%+3\;
+%,s6
+%-  
+%0)|(
+%08x: 
+%1)e%
+%16s : 
+%16s : %6d, %6d
+%1F F
+%3$)
+%3F"F)F
+%4%,%
+%6s, %6s
+%7+m+
+%9!!
+%9#H
+%<"\
+%<%^%_%Z%T%i%f%`%P%l%g%h%d%e%Y%X%R%S%k%j%
+%>L#
+%?/62M-
+%?2t2
+%@'}
+%@D`
+%AAAA
+%B1L8
+%B9IE9I
+%F$	
+%F(Fmh
+%F(H%
+%FxKO
+%G ^
+%H$K 
+%H)N*
+%H+k*/&
+%I##
+%Im?
+%J&MR
+%J*v*
+%K!w
+%M)G)
+%M/ 3h0
+%N&L0`
+%U"O
+%V&##.
+%V+1%n
+%[j^h
+%\,{'
+%^1M4g-W 
+%`1F F
+%`OI
+%c#^
+%d %s:
+%d [ %d %s ]
+%d0'4
+%g *
+%j'D'
+%k"$
+%k"3
+%k&`"&
+%n!~!!%
+%p E
+%pX`Y
+%q'%*
+%q'7&
+%q: '%s',
+%r&$%
+%r+h
+%s$	 
+%sj)
+%u additional exceptions in USB callbacks
+%{2C6
+&	!^
+&	&~"D
+& 	I F
+& [IA
+&! 5
+&! F
+&!FhF
+&"&,
+&"K)N)
+&"V'
+&"Y)
+&#%. 
+&#49;Q7L*F
+&#Y#;
+&#xb
+&%-)
+&%c*
+&&..
+&&pah(j
+&(3+.
+&(FF
+&))Z%/ 
+&*J/j+
+&+F%F
+&,KD
+&-*V*
+&.2C7
+&.m'
+&/%N
+&0	K
+&0 G
+&0[0
+&1F@F
+&6*1 
+&7$/
+&8!r
+&9 '
+&9?xLY?xL
+&;&9
+&=O0F
+&>#Y
+&?#7
+&@(F
+&B)l"
+&E1y3
+&G(u+
+&Gh F
+&H!\
+&H*\)J#l
+&K'I
+&L0K*O
+&N'J!
+&N?d
+&O.^4|7
+&P$%!#
+&Q#6
+&R'Y&
+&W!|
+&X"L
+&^(j#
+&^Cgi(F
+&`$#
+&f%h
+&f'L!
+&ft0F
+&g&T$
+&g*x+h(
+&ggg.ggggggg*ggg
+&ich
+&m%Z
+&p.-4
+&q!p
+&r*N&
+&rKrL
+&tJO
+&zvK
+&~,8)
+&~1j:;8
+' &}
+' G#
+' d/';
+' iC
+'!q#
+'#+9%2
+'$6=A
+'%c'
+'&B'
+''#/
+'':F
+'((U#H
+'*##
+'*F F1h
+'*ax
+'-)l$
+'.(Z),)
+'.+k-F-l'
+'.FO
+'3*a$
+'303
+'303Kp
+'4,/,
+':%4
+'=' alignment
+'@+[&Y
+'A'4(
+'B$r+ :
+'C*4&
+'E#^
+'F*F
+'G@h:
+'I F
+'I-v+i$/
+'J!]
+'J,i2
+'J`{
+'K h
+'L!U
+'M2g46.
+'N$2
+'N-	:
+'P!q
+'V"`!
+'W#t
+']057
+'`5}0@
+'align'
+'await'
+'b+;,h'7
+'bool'
+'break'/'continue'
+'d,@(
+'d0!3{+
+'data'
+'e.Z.
+'f$Y
+'g d
+'gt8F
+'jdKiJ
+'l,d/
+'label'
+'normal')
+'not'
+'o"j
+'passthrough', 'testleft', 'testright', 'silence'
+'return'
+'s)~!
+'w&'%
+'y)k&
+'yield'
+'z(w+4,
+'z+l)
+'z0K
+'z6K7M
+'|+/$
+'}!u
+'}.p-O'
+(	)Z'
+(	IF(F
+( BKCM
+( R):0i.
+(!!3
+(!,t+8$Q
+(!3%
+("#D
+("#W 
+("pG
+("t'
+(#!o
+(#(0#j
+(#,%,9(
+(#G#
+(#H$c
+($&a
+(%!#
+(&#4
+(&#8s<K,D
+('q,i,
+()1,/y+3(N 
+()Y*
+()[]{},;~:e=<e=c<e=>e=c>e=*e=c*e=+e=-e=e>&e=|e=/e=c/e=%e=^e=@e==e=!.
+(*p0=.
+(.!\
+(.'L!]
+(/*R(-!
+(0 F
+(0"=
+(2(M
+(4)r"
+(7%P 
+(7.<+?"^
+(: *
+(=%&
+(=F"
+(>"t
+(>/=1</a,')
+(?:Pz
+(@'v-84
+(BB`
+(F	I
+(F!F
+(F!x
+(F"I
+(F-I"
+(F.I	
+(F/I	
+(F1h?J
+(F3c
+(F4I
+(F5I	
+(F9F
+(FAI	
+(FBI	
+(FDI
+(FOI	
+(FWI	
+(FYI	
+(FYh
+(FZI	
+(FZh!D
+(FdI	
+(FmI	
+(I *
+(I$U
+(L*T.
+(N!d
+(N$}!e
+(R F
+(R(=#
+(R11,C
+(R3Z=
+(S'W 
+(T0y. %
+(U"t
+(V*)
+(Y%0!
+(Y'?	
+(]$0
+(]'F$
+(` F
+(`"! F
+(`+C(
+(`0F
+(`7`-hRFIF
+(`s`cx
+(`t`"x
+(`t`#x
+(a&O B
+(a'+
+(b$V
+(b&V!}
+(c(Q 
+(c.Q6i4
+(expecte
+(h 3
+(h*F
+(i#? 
+(i2FAF
+(iAF
+(k0$.f'z!
+(m"c
+(n7y>E:
+(p:}D
+(u(P0
+(v#n
+(y)I$
+(z-K%
+) * ?
+) *Z%
+)!`0
+)"(e H
+)"a"
+)#A%'$
+)$ U
+)$$6
+)$t%t!
+)&,	!7
+)'(<
+)))h#
+)--^+
+)0+@,
+)408-K"
+)9#6
+):!H
+)<*f%
+)>-v&
+)><k
+)F F
+)F F@J
+)F FPJ
+)F h
+)F"F0F
+)F0F
+)F2F F
+)F8F
+)F8Fea
+)F@F
+)FHF
+)FXF
+)F`` F
+)FaJ
+)FhF
+)K*J
+)K.D
+)K1m4
+)L$'
+)L%R
+)M F
+)M+z
+)O$O C
+)O)! 
+)P!+
+)P"*
+)R*j(6
+)T++$
+)U2q;FDmI
+)X 6
+)Y#@
+)\=)
+)d"p"
+)d-s1
+)e5m<
+)f/K-Y&
+)h'_%
+)h)Z%
+)h00
+)h0q&.
+)i(F
+)n$}
+)o)')O!l
+)o)_&
+)q!Q
+)q/ 1
+)q16/
+)u)/#
+)y?r)~?r)
+)zhh
+){ S
+){/j/
+)|,u*
+)~0w.
+* 9F0F
+*"4E6.1.(
+*# :
+*#FeF
+*$w-
+*'.b(
+*'3!2
+*( '
+*** PANIC ***
+**,4)
+*++e
+*+R/
+*: '
+*<5A4g)
+*= x j#
+*B(W!
+*D[B
+*F !
+*F F
+*F FY
+*F Fqh
+*F!F
+*F!F F
+*F!F0F
+*F!F@F
+*F#F0F
+*F)F
+*F)F F
+*F)F(F
+*F1F F
+*F1F0F
+*F1F@F
+*F8F
+*F9F
+*F9F F
+*F9F0F
+*F;F)F
+*FAF F
+*FCF
+*FCFO
+*FLIMH
+*FPF
+*FXF
+*FYF(h
+*Fax x
+*Fqz
+*H?Q
+*I*L
+*I+H
+*IHF
+*J)y%
+*L$A
+*Q'u
+*S@[
+*T'O"
+*T(I!
+*T(u
+*T+T"X
+*U-B*
+*[2!9
+*]*p(
+*]2A3
+*^2u7f8
+*`#`8
+*b8^<
+*c!n
+*d~?"{
+*g-_(
+*h%K
+*h'K
+*h(K
+*h2%3
+*hahSh
+*hnK
+*j"|
+*k-/1
+*mRh	
+*q"#
+*q0#0
+*s=X
+*sFO
+*t+a'
+*v+a)
+*{+f%j
+*{4K>
+*}'< 
+*~*f+
++	*F
++	I	H
++ , 
++!)*
++!jD
++"B!
++"`Zh
++"q&
++#&t
++#F*`U
++#d$
++%-U*
++'7(;
++'n(
++)2-p-P-i*
++,;=[]
++.,;=[]/\"*:<>?|
++2!3
++2*?(N$
++5$R
++5$S$
++:/=&
++<(3
++<0g-
++<;}B
++?b	
++A,4.
++E6:>iA
++E6=
++Eh.
++F F
++F!F0F
++F*F F
++F*F8F
++F0`-
++F2F#!'u F
++F2F$!
++F2F9F F
++F2FAF8F
++F9F0F
++F:F
++F:F!F0F
++F:F5F
++F:H
++F;H
++FBF F
++FCE
++FDH
++FIF8F
++FuC"F
++FuF
++FyhEF
++H@?
++K q
++K!F
++L2o9FF^P
++P4v8
++Q!8
++R1O,9
++R:X@
++U."-@(
++V"g
++W&(
++W'!
++W-.192
++W3O:
++Y!{
++\0j+
++\3)4:,
++],i"
++]AYL
++`+x
++`3hB
++`n`
++`rh
++b F
++b1T.P$
++b3F3
++c(A
++e!Q
++e-A+f&
++h#`1K
++h$h
++h*1
++h2h
++j1FS
++k)FC
++o K
++p0F
++pKK
++s)p#a
++t F
++t7!?U=
++u*V#
++x.+
++x/+
++x2'3
++x:+%
++xqBC
++x}+
++y7+
++y^+
++ye+
++y{+ 
++{6!7
++|(h;
++|?	d
+, %d)
+, alt=%q
+, alt=%u
+, in %q
+, pull=%q
+,!v(q,
+,"%%
+,(.`-8.W.
+,(h&
+,(i6
+,)R1*2).
+,+52)
+,-&,
+,0 F
+,0!U
+,0C{
+,5"u
+,5,r(
+,7-R(8!
+,8(&(A1
+,9*0"
+,;*R#
+,<'3
+,AK@
+,C!D
+,D{o
+,F"W
+,F(H
+,F)F
+,F6[:
+,I$H
+,I'p
+,I,H
+,I-H
+,J'r
+,Jcb
+,L$G
+,N(h!J
+,S!j
+,W+8%I
+,[+2'
+,]%.
+,]'	
+,^,V%
+,^/G3
+,_-x(p
+,b%l
+,c"p
+,i!;
+,i)F2h F
+,k)i
+,k*o
+,o"u
+,o)a
+,o+v 
+,s&:!1
+,s+	*b(
+,x(b
+,z,J
+,},g"x
+- . / 9 
+- use normal args instead
+-!61<J=
+-"IB
+-"a%
+-#QF
+-#s*.)
+-%D#
+-%R$$
+-((B
+-)$U
+-)1;1a,B%c
+-+7(56/))
+-,?$I
+-/F8
+-/FjF(
+-;aO
+->08=
+-B+q!
+-C6f=jB
+-E(-
+-F2.,
+-G:iAn@
+-Hc`
+-K"T
+-K-J#`-I
+-P7l(Q
+-R$t
+-R, %
+-Y8t;
+-^!:
+-^5)7
+-^=KE
+-a4e*{
+-c$D
+-g.p-
+-gh&
+-h/l&
+-h8<?
+-o#I
+-q(P
+-{$m
+-~!Q
+.  F
+. *C!q
+. 3@+
+.!/! F
+.!1g1L0
+.!;d@
+."82
+."9;5
+."Y'Q)
+."b!
+.# F	
+.#0]1
+.#K,c0
+.#r+
+.%(d
+.'#C
+.'([
+.'/j(y
+.(O,
+.),{"k
+.*8w1@
+... 
+..6u;
+./4/
+.0F#F*F9F(
+.96k5
+.:FO
+.D(.
+.L-t$.
+.L8#@aA
+.M&"
+.P#R
+.R'p
+.R8F)s
+.W'  
+.Y2.)
+.Y7A%
+.[#t
+.\$u
+.]"2
+.]3g4
+.c*.
+.c/w/
+.c>CE!A
+.c`O
+.format(
+.frozen
+.frozen/
+.g(Z )
+.g4n.
+.g5-5j,a
+.hph
+.l$X
+.n0[.
+.s:I8
+.tP;h
+.u$d
+.v)a
+.v6l3
+.z4527*J!<
+.{ u
+/ +y%
+/!$)
+/!(F
+/!0F
+/!7 
+/#"7
+/#=#
+/$1}(
+/%D:
+/%K206#0*/f3 /k"
+/'=E<D0
+/*`	
+/++4,0#$
+/,)&
+/,06
+/.#6
+/.%T
+/.*\!
+//!I
+//*\%
+/15k4
+/36*9
+/5/K(c
+/73:Y1
+/7HA)=$4
+/8*I!
+/8+o&
+/96u3
+/;&u
+/=+3!
+/?3 /
+/C	H
+/D5A2-+Q
+/F/	
+/G(/
+/H1t&1
+/J%)
+/K;6>)<
+/O/$'
+/Q S
+/Q$C
+/X<bA
+/Z078[E
+/^53&
+/__init__.py
+/`$Q
+/`0U-
+/b3p9RA
+/b5c1
+/e,z0
+/f y
+/fat
+/h&m
+/h:z7L)t
+/i.7*
+/k0t*X
+/m&|
+/q5N9
+/rom
+/rom/lib
+/t`#x
+/v2V4
+/x"p
+/x?>
+/|)X!G
+/}=yAa>28
+0	K#
+0	NE
+0 1 2 5 4 
+0 @)`,@%%
+0!7 
+0$.m'
+0&[/
+0&q.(+
+0'?Lo
+0)-l(
+0)xK@
+0*;<tCZ@b6
+0+P6w,f
+0.+"
+0.]6:4
+0.}6
+0/$I
+0/+O
+00	J
+00(F
+0000000000000000
+01+'
+0123456789abcdef
+018K5
+01F8F
+02BDOE
+0304
+03sC
+042c/
+04tD
+07 Z
+08	(
+0<	,
+0<2i-
+0<9*D
+0> B C 
+0A(FA
+0AF`j
+0C,* 
+0CF*FHF
+0DGB
+0F!i
+0F)F
+0F)i
+0F+h
+0F2F
+0F9D
+0F;F
+0Fah
+0FcC
+0K0L
+0K1N
+0KE<
+0N1L2h
+0P]L
+0R6]9w:V9
+0SE"
+0U#l
+0W2;/
+0X@@
+0]4J5
+0_-y
+0`ji
+0`jy
+0add4sub mul
+0c.e#%
+0g1r/
+0gjh
+0i+F
+0j+F
+0k+F
+0l+F
+0l/S-7*
+0m*)
+0m+F
+0n+F
+0o+F
+0pG8
+0pGO
+0q3v/w( "i
+0s0'*5"
+0t3y-
+0v+_#
+0v5y8
+0x%x
+1"f 
+1#1-s.='M
+1%Y'h%\ 
+1&h2
+1(!M
+1(24+
+1(7/
+1*)F '
+1+F*F
+1,+H!R
+1,,e!
+1.00
+1.26.0-preview
+1.wav
+1/`aE
+11"1"111111bb#b#####"3b"3b
+12Z:
+13:.A8C
+160i.#*b!]
+1;/@%g
+1@.0
+1A5M.~!
+1C(F
+1F F
+1F F:J
+1F(F
+1F(F,`
+1F8F
+1F8Fka=`
+1F;i(F
+1F@F
+1FHF
+1FNH/
+1FSFBFHF
+1Fca
+1Fch h
+1FhF
+1Fhh
+1H1/5
+1I-H
+1IB76
+1J3_5"6
+1L6Z5
+1P-m'
+1V-%#S
+1W#<
+1W,s
+1Y:_=
+1Z'D
+1[)(
+1`&6
+1a96=R?R>
+1d-c
+1h!"3
+1h(h
+1h8F1J
+1h8h
+1hHk
+1i2&,
+1l.%'
+1t/D*
+1w'g
+1y@ 
+1z0j)
+1{/b(p
+1|%9
+1~6~8
+2 pG
+2!$"I#
+2!F(F
+2!p!
+2"6Y1
+2#Bs@
+2%.9(
+2&%w
+2'#^
+2'(9
+2'}0
+2)F(FA
+2.1.1
+2.3y/
+2.8>7
+2.wav
+2/4r6
+21F h
+22+i$
+23'`
+23nFk>
+25)6!
+26#'
+29-o
+2B)<
+2C8]7
+2C?]F
+2D$J
+2D3D
+2E+v
+2F F
+2F F)D
+2F!F
+2F!F(F
+2F(F
+2F(F!F
+2F(F@
+2F(Fci
+2F(h
+2F)F
+2F)F F
+2F)F@F+
+2F+D@F
+2F+F
+2F+F F
+2F1D
+2F1F
+2F9F
+2F9F F
+2F;F(i
+2FAF F
+2FIF
+2FIF8F!
+2FQF	
+2FYF8F&
+2I"b
+2I@F
+2IF@F
+2I`j
+2J1U%
+2JQF F
+2K&F
+2P,.'$(
+2P4(6
+2PFYF
+2R!g
+2S"^
+2T3B(
+2Y-r&
+2Z&g
+2[*m
+2]K^I
+2^=0>v2 $=
+2b1A).
+2e)B
+2h	K
+2h)F
+2h)F F
+2h)h
+2h;h
+2i+i
+2i,g#
+2p|?2p
+2p|?by
+2q&P
+2q,Y"
+2s\C
+2y,)"
+2z0I
+2~){
+2~0W)f
+3	+G
+3 /F&
+3 0&b.
+3 FB
+3 Fc
+3 c&
+3"3"!!!"!""$""#"&%'$$2bb
+3"3#
+3"F#` F
+3"U!
+3#,3"
+3#CC
+3$W*
+3$[,
+3%4M+
+3&E'
+3),* 
+3)i3
+3*D)D
+3+3>%C
+3+ak}C
+3.4.0; MICROPYTHON 1.25
+3.J(
+3.wav
+3/-3$
+30;pSx
+31$c
+333?
+34"%N
+353w0
+38,a!2
+3:O:I;DZ`Q
+3;-2
+3=T@J>T@
+3?S$
+3BFHF
+3C`4 
+3C`ch
+3F*F
+3F*F!
+3F*FQFHF
+3F:F!F(F
+3F:F)F
+3FBF
+3Fe/
+3FrF>F
+3H!u
+3J'r
+3K0	'
+3L*4 
+3M&6
+3Z5/,
+3\@@D
+3]>v@
+3_5Q4
+3`kh
+3cF?M
+3c`(Dp
+3e2T*0!X
+3h"x
+3h$J
+3h+C3` F
+3h[h
+3ht`
+3i i
+3k1F#
+3n.w P
+3o0h%
+3p)t
+3r+$#
+3rh F
+3s`S
+3u+2
+3u=G:
+3v"O
+3v,j
+3x+C3p
+3y?+
+3z.+
+4	40
+4 ,!
+4 e"
+4!)K
+4!F(F
+4")K5`
+4# J
+4#$L I
+4#(L$I
+4#+-
+4#/J
+4#F2F
+4#pJkI
+4$,C
+4%@zAo:
+4%CE
+4&F<FE
+4&H-
+4')>!Q
+4(?1W3#*\
+4(FW
+4)'u
+4+` F
+4.wav
+4/?*:
+408d;
+41J5
+43DG
+44%F
+4<5n+
+4?:i<
+4A,E
+4A6U18(
+4B08*
+4E'[
+4EDRG
+4J5J
+4K.D3
+4P;4?
+4SyC
+4XA2H
+4Z-i#
+4`%Q
+4`-Q
+4b"D
+4c19'
+4d,C"e
+4e>>K4R9L
+4h'^
+4h+e
+4k()
+4s 3
+4z%	
+4z).
+4z/C#
+4{:n>
+4~3K,N#I
+5 n&,%- -
+5!<*
+5$10"
+5%3(,V$
+5%D(D8
+5&,-
+5';n8
+5(Fp
+5)'B
+5,?.;
+5-+@
+52F F
+5<-> @
+5?F%
+5@3s#>
+5@<c9g.e
+5C2&%
+5C;\<
+5C=l8
+5CF:
+5F.F
+5H+V
+5I)H
+5I>k<
+5IFCF
+5N7e8,9
+5S1k'
+5V?tG1I
+5W:X/<"
+5YBeG%@).
+5\4J/
+5^,J
+5`3`
+5e,j
+5iF F
+5o:h5
+5t.R
+5u19(
+5{=q
+6 3( `
+6 C|DA:
+6"!% !p
+6"g+
+6#3'
+6$2Q',
+6*d6
+6,.!$m
+6.*6
+6.=p:
+609 ,
+67x^_\]
+6C.o
+6E;}6
+6V7-5
+6].T$+ B
+6^,@
+6b,9
+6e._!
+6g*F 
+6l)t
+6t/e
+6tA7H
+6vI/=
+6x1T"k
+6y9!4
+6z8Z8
+6~$|
+7 >.
+7 g.H;
+7!k"
+7#xG+
+7+(.
+7,8I7O3^,
+7.0X,
+7/.U F
+7/`bk
+70`,`
+714a(
+7564.,!
+7=3G.
+7=?>G3L]KsDy:
+7?T;
+7DGMK
+7G&a
+7H).
+7J)F F
+7J0;#}
+7Q@4A
+7U1`#4
+7W%W
+7[1w+
+7sGdM
+7t5@2^-
+7u1a-
+7v7C6
+7z@y>22i
+8 elements
+8!B%
+8"7$
+8"J'
+8#'C
+8$21)
+8'56
+8(<,
+8)2G+
+8-9&2
+8-BRD
+8/-2<$l	%
+83kD
+8>%^
+8?/g&N
+8?;-
+8?e9%?
+8F!j
+8F"y
+8F)D"
+8F)i
+8F.b
+8F1F
+8F3F
+8F9D
+8F9F
+8F:F
+8FAF
+8FKF
+8J-Q
+8J;}:S69.
+8T330
+8W0T&	
+8X3$%
+8^u<8
+8_9t4z*
+8hCK
+8k;G0
+8m?M>
+8r6K
+8t%l
+8}5)6t1?"
+9	Y	
+9 +m
+9 FI
+9!_2@<
+9#3{#
+9#F)
+9#b.<5_2Z$;
+9$&6	
+9$n$
+9%=F3
+9'+B
+9'8*(
+9(t)
+9+D,
+90D)E	<&*
+94/7
+94>78
+94GiI-AA3
+9:>fA
+9;1K)<!
+9;FpI
+9?8\.
+9BF(
+9F F
+9F(F
+9F(F+f
+9F+H
+9F0F
+9F0F7JC
+9F2F
+9F3F F
+9F@F
+9F@h
+9FHF
+9F`j
+9Fbl
+9FhF
+9FhFR	
+9FhFka
+9IF F
+9W3+-p'
+9e5+-4"
+9gggg
+9l9_;
+9o3^4
+9sD%
+9xx)
+:	Q	0
+: G!
+: \,
+: ~ 
+:!S1T=
+:"A!
+:$.Q
+:$F#
+:'-)'"
+:'[)+'F#J
+:(FTF
+:*2-+
+:*Q-
+:+D!
+:1<17~*q
+:1F(F
+:7@I<
+:;`*
+:>7L.
+:?6I1*,r&8"
+:?nP#?
+:A*&
+:E)\
+:F F
+:F#F
+:F'F
+:F)F
+:F)F0F
+:F)FhF
+:F1F
+:F1F F
+:F1F(F
+:F1F0F
+:F9F
+:F=I>H
+:F@F
+:FAFp
+:FDFGFO
+:FHFT
+:FIFX
+:FPIKH
+:FYFPF 
+:G+r
+:K F
+:T:V9
+:U:q-
+:]>D:
+:_&(
+:` F
+:a3!&
+:f3p+{#x
+:h I
+:h#h"`<
+:q@UZa
+:~17 
+; EP-2350 1.0.6
+; [0
+; z#
+;"*Z
+;"A0
+;$$!
+;%x-
+;)<>6a+
+;+:j4
+;,;C9n5r-x `
+;,F5L
+;01hJFhD4
+;0<0A
+;0M Z
+;9?H
+;;}?NK%8
+;<D^
+;?2)$
+;?C=E[A
+;?m )?<
+;B>&?
+;D,J
+;Dca#|
+;F F
+;F*xh`c
+;F2F
+;F2F!F
+;F2F!F(F
+;F2F(FT
+;F2F)F
+;F2F)F i
+;F3,)
+;F@"
+;FAF hr
+;FAF0F
+;FB"
+;FCE
+;FJF!F0F
+;Jci9I2H
+;K:F
+;KE,C
+;L9$3
+;M*t
+;M6v.e&
+;Wy.;
+;].+
+;].+ 
+;`OBOA
+;e@s>
+;f7j8K6t*Y
+;g:j8U7
+;h$ 3`
+;h'J
+;h0F
+;h1F
+;h3`
+;hRF
+;hzh
+;iA0@
+;k=D8F
+;l2U%;
+;p3p#x
+;s`c
+;u3o*:'
+;u<39
+;w? <q3;'
+;x3pGK
+;xr+
+;y,+@
+<	M	
+<	~"
+< 7=$
+< :F
+< > 
+< Fp
+<!/&
+<"S5";
+<%m)
+<%q>
+<%s object at %p>
+<*'0
+<+U+Fa
+<-/}
+<6JcR
+<;8I4
+<= 36
+<>=^
+<?;'1
+<C3B(
+<D8'2
+<DDE
+<D`G
+<F%F
+<F*	
+<ID8D
+<O=<1]
+<S9`9
+<_=J32 ]
+<a;>1
+<b=U6
+<class '%q'>
+<dictcomp>
+<function %q at 0x%p>
+<generator object '%q' at %p>
+<genexpr>
+<io.%s %d>
+<io.%s %p>
+<io.%s>
+<io.BytesIO 0x%x>
+<io.StringIO 0x%x>
+<kk)>kk
+<lambda>
+<listcomp>
+<mDcF
+<module '%s' from '%s'>
+<module '%s'>
+<module>
+<o<F9
+<setcomp>
+<stdin>
+<string>
+<struct %s %p>
+<super: 
+=	=Oc
+= >&
+= y1n'
+=!pq
+=#*j"
+=(LmP
+=)JFK
+=*:4.;
+=*_.
+=-CTF
+=..D
+=/?^6y*
+=5?	3!? ]
+=== 
+=AC>@N6
+=B:92
+=BM!U
+=D(F
+=EDx?
+=Fd#
+=I*F
+=I=H
+=J<9=
+=L<|
+=S`t`#x
+=UByAb9
+=[1S&
+=[:\
+=]C)K
+=j="6
+=s<D4
+=tF6A
+=u,<8E
+=vFuH
+>		}>
+> "F
+> pG
+>! F
+>" r
+>#)F F
+>(9y0Y-v*
+>)&m
+>)v-
+>/O=cD
+>333?
+>359%
+>4#2
+>8.h
+>8H,?
+>= 2
+>>> 
+>C3L)6"
+>F7F
+>F;h
+>FJGI
+>FQF@F
+>F_+<
+>H?M
+>I<Hgh
+>Is;
+>KAH=
+>KeC
+>M)q
+>M/A>
+>Mgw>]S
+>W{(?8/
+>Y@{9
+>Z$\>?#
+>[^[<
+>\vH>n
+>`@o;53
+>bDZ8
+>d@[9;/N%
+>fff?
+>h2,"g
+>r5c*
+>r6	?
+>rErh
+>u}u z
+>z/?
+>zUW>
+>zoL>
+? U2
+? s%
+?""F
+?#7%w#A
+?+H@?+H
+?0"$
+?2:u6N@vB
+?2R#A"r!
+?4?|9\*
+?9`j
+?:9$,E
+?>?4;&11!>
+?A F
+?AH<E%7
+?J@K
+?L.=?L.
+?L4>+V&
+?N3xX
+?N:u+
+?O8v?
+?OCC:_*^
+?S.I
+?U%g
+?W?AB
+?ZhRh:aO
+?^<[<xuj>
+?^DC?^D
+?`0N!
+?`F:G<A
+?b;Z',
+?bDr?
+?d#F?d#
+?j#F
+?k<@+M
+?q<:53+
+?t`#x
+?y9:2X%
+@	pG
+@ pG@(
+@! F
+@!+F*F
+@!0 
+@"'1 5
+@"CA
+@"D'8#X
+@$E4
+@%`+
+@%j%
+@*?3
+@0)#
+@0*F
+@0Sl
+@0pG
+@2xc
+@3x!L#
+@4Dp
+@;FBF)F
+@B `
+@B `O
+@B(`O
+@BpG
+@C#A
+@C26
+@C`pG8
+@F F1
+@F"}
+@F*F
+@F1h
+@F=I
+@FIF
+@FRF)D
+@FjC
+@I;H
+@M;Y4S,
+@P|8
+@RA`
+@WGiDR<
+@`53"l
+@g# 
+@hIh
+@hpG
+@iKi
+@o;Q1[$1
+@rQWK]]
+@}9?'
+A	M	h
+A 8 
+A!A)Q)[$
+A#O'
+A#a#
+A&*(9 
+A)>%7
+A.L^
+A0a#
+A3xr`a
+A9E>@
+A@K-
+ADBa=
+ADOEI
+AF F
+AF(F
+AF0F
+AF8F
+AF:Fp
+AF@F
+AFKF  
+AFXF
+AFhF{a
+AIOU
+ALT_GPCK
+ALT_I2C
+ALT_PIO0
+ALT_PIO1
+ALT_PWM
+ALT_SIO
+ALT_SPI
+ALT_UART
+ALT_USB
+APKcK\C
+APSR_nzcv
+AQBk>
+ARRAY
+AS9&
+ASZ`
+AT5-*
+A^<+3
+A_Cr<+-
+A`G(F
+A`G-
+A`pG8
+AdF!
+Afff?
+Ah"F
+AhHh
+Ahph
+AiBh
+ApF!
+ArithmeticError
+AssertionError
+AttributeError
+Audio mode set to: normal
+Audio mode set to: passthrough
+Audio mode set to: silence
+Audio mode set to: testleft
+Audio mode set to: testright
+AzCh
+A~6}*> 
+B##c
+B#g0
+B%K(Y%
+B'F'
+B(K	
+B)3G
+B*;-/;#
+B+FD
+B,F%
+B1h5
+B2F(
+BALANCE
+BASEPRI
+BC;z1
+BF F
+BF F1i
+BF!F0F
+BF!F8F
+BF%F#F
+BF)D
+BF)F F
+BF8F
+BF9F
+BF9F0F
+BFINT16
+BFINT32
+BFINT8
+BFKF
+BFUINT16
+BFUINT32
+BFUINT8
+BF_LEN
+BF_POS
+BI8H
+BIG_ENDIAN
+BKCLS
+BUILTIN_CDC_MSC
+BUILTIN_DEFAULT
+BUILTIN_NONE
+BaseException
+Bb7C'
+BbE4
+BbHhIiQq------fd<
+Bbg@
+BcET7
+BhCiC
+BytesIO
+C	;R
+C +$
+C @%
+C i.K8
+C":].
+C#M5q?
+C#pC
+C#v%R t
+C#x!"
+C$2%
+C$K%M
+C(7'6
+C*;'(
+C*>k
+C+`@
+C+`ch@
+C+`chbz
+C7JGJ1C
+C?	O
+CBCA
+CBCA#u
+CC`pG
+CCzDh
+CD[hJD
+CF  
+CF Fq
+CF"F9F  
+CF"FIF
+CF$%
+CF(FZ
+CF*F
+CF*FHF
+CF1F
+CF2F)F F
+CF2F1F
+CF9F
+CF9F  
+CF9F(F
+CF:F1F
+CF:F8F
+CFZFHF
+CKHH
+CS1j
+Can't continue xfer on inactive ep %02X
+Cb8K
+Cb`#pp
+Cd?G4X.# G
+Ch	J
+Ch+`
+Ch3`
+Ch[h#`
+Ch\`
+Chs`
+Cj?W
+Cm80
+Cs?B$
+Cu9_.
+Cxt+@
+Cy:V2
+D	~	
+D!F0F
+D!Fca*F
+D#h;
+D$;&2
+D%}.
+D(F#`
+D(FAI
+D)./
+D)FO
+D+Dcc
+D,?7o:
+D,Dv
+D-M-
+D/=k0
+D0F 
+D0`M
+D57CD57
+D9F%
+D:B\7%&
+D?-9
+DABp9
+DAhb
+DCDca
+DELAY
+DF#F*F1F8
+DHF1I
+DIST
+DJKO
+DKEI
+DMA(%u)
+DQ@P8
+DRN1M
+Dc?G6
+Dh F
+Dkh2F(F
+Dph9F
+Dq?>@k?
+Dqh8F
+DsB8-
+DuJ|=
+E!Q#
+E"D/
+E#C*C
+E&=)E(Q*
+E(33
+E(B?9v0S)
+E3a	
+EACCES
+EADDRINUSE
+EAGAIN
+EALREADY
+EBADF
+ECONNABORTED
+ECONNREFUSED
+ECONNRESET
+EEEEEEEEEE
+EEEIII
+EEXIST
+EF(F
+EFFFs
+EHOSTUNREACH
+EIFH
+EINPROGRESS
+EINVAL
+EISDIR
+EJA%5
+EKF*
+EMQU\eeee"07eee?eeeeee)
+ENOBUFS
+ENODEV
+ENOENT
+ENOMEM
+ENOTCONN
+EOFError
+EOPNOTSUPP
+EP-2350 CDC
+EP-2350 DRIVE
+EP-2350 MSC
+EP-2350 with RP2350
+EPERM
+ERROR
+ETIMEDOUT
+E[hO
+E` Fp
+Ellipsis
+Eu;h.
+Ex?^X
+F	I	H
+F	K({	L
+F *!
+F F	
+F F%`p
+F F&
+F F)F
+F F+`
+F FD
+F G!
+F h[
+F iC
+F!D%
+F!D(h
+F!F! 
+F!F(F
+F!F0
+F!F@F
+F!FSF8F
+F!FhF
+F!K\j
+F!`e`
+F"F(F
+F"F0F
+F"F9F
+F"FV;
+F"yJ
+F#F(
+F#F]
+F#J F
+F#g!
+F#h!x#
+F#hbh
+F#hh
+F$6$I!\
+F&Iz@
+F'hBF!FhF
+F(?.
+F(F	
+F(F	J
+F(F%
+F(F9F
+F(Fql
+F(h``
+F)F F
+F)F Frh
+F)F0F
+F)F@F
+F)Frh F
+F)j8F
+F)y0F
+F*F F
+F*F1F
+F+HP
+F+c)
+F+x1x
+F+|#
+F.2<
+F.FWF%F
+F/I)H
+F029*
+F0F)F
+F0iD
+F1D8F
+F1F F
+F1F(F
+F1F8F
+F1Fkh(h
+F2F 
+F2F F
+F2h F
+F3F*F
+F3FO
+F4Jcc
+F5F/F
+F6"O
+F7h(h
+F8F:F
+F9F F
+F9F0F
+F9F8F
+F9F=FF
+F9FJFsh0h
+F:I(F
+F;F2F!h
+F;F2F)F
+F;h I
+F;iC`
+F<:9-
+F<y F
+F>9V) 
+F>Fkh
+F?$@
+F@F	
+F@FIF
+F@h	
+F@h2
+FAF F
+FAF"
+FAF8F
+FAT32
+FATAL: uncaught exception %p
+FB77)2 
+FBF8F
+FBFA F
+FBh9F F
+FBj@y
+FCF*F
+FCa<K
+FCiS
+FDFkj
+FE`{
+FEh(F
+FHFz`3
+FIE@
+FIF0F
+FIF@F
+FIFH
+FIGH
+FJhkh
+FJhwh
+FLFn
+FLOAT32
+FLOAT64
+FNE+
+FNhT
+FPD	9
+FPFYF
+FPH/
+FPSCR
+FRF[FIF
+FSE y
+FXhiF
+F[I[H
+F[h	
+F[h#
+F[h[h
+F`FS
+F`Heh
+F`hO
+F`hx
+False
+FdJ_Dj8
+FiF0F
+FileIO
+FjF F
+Fjhph
+Flash
+Fm:h-
+FpG8
+FphZ
+FrF2
+Frh F
+FsO0FW
+Fv+@
+FwFKF
+Fxh D
+F~D3=
+G	JF
+G F)F
+G F)i
+G F@
+G FO
+G FU
+G FZ
+G Fii
+G Fp
+G!0F
+G#FU
+G$m'1
+G&l<=K#C
+G'Ai9U09(S#
+G(FT
+G(FY
+G)F F
+G)F(h
+G)F2h
+G)F>D
+G)hKo
+G,4K
+G1F F
+G1F F#
+G3h"F(F
+G7PB
+G8F9F
+G9F F
+G?!]
+G@=k0
+GAF F
+GBF)F Fs
+GC memory layout; from %p:
+GC: total: %u, used: %u, free: %u
+GCC 14.2.1
+GF?S
+GGA?5
+GIF F
+GJFQF@F
+GM8E$z
+GP10
+GP11
+GP12
+GP13
+GP14
+GP15
+GP16
+GP17
+GP18
+GP19
+GP20
+GP21
+GP22
+GP25
+GP26
+GP27
+GP28
+GPIO0
+GPIO1
+GPIO10
+GPIO11
+GPIO12
+GPIO13
+GPIO14
+GPIO15
+GPIO16
+GPIO17
+GPIO18
+GPIO19
+GPIO2
+GPIO20
+GPIO21
+GPIO22
+GPIO23
+GPIO24
+GPIO25
+GPIO26
+GPIO27
+GPIO28
+GPIO29
+GPIO3
+GPIO4
+GPIO5
+GPIO6
+GPIO7
+GPIO8
+GPIO9
+GZ2< 
+G`HF
+Gchp
+Gcx.	
+GeA4<
+GjbE
+GkDW<
+GpF	8
+Gt`#x
+GvIXF
+G|RG>
+H	l	8
+H  F
+H )F
+H I J 
+H"R 
+H#B+
+H$r%
+H%x6
+H&Q.D5):
+H*P17.5%q
+H0al
+H76>
+H?R+4?
+H?V)9?
+HANDLE:
+HARMONY
+HD2D
+HDjC
+HF3I
+HFCF
+HIGHPASS
+HKFJ
+HMILIOJI#hS@
+H]hZ`
+H_Ez=
+Hard assert
+Hardware alarm %d already claimed
+Heh	
+HgGQ>
+HhSh
+Hhehfz
+HkpG
+HnJlF#>
+HpG<
+HpGP
+HpGl
+HpG|
+Hq?0ex?
+HxJyI
+I 3A
+I!?]QJ?
+I"$$
+I#H"
+I#R(
+I'A,
+I)]4
+I*n0
+I-}9
+I0.#
+I0JXC
+I17t
+I?h!"3
+I@fff?
+IAKC
+IF F
+IF(F!
+IF0F
+IF@F
+IFHFd
+IIJH
+IJBL6
+IKx?F
+IN_HIGH
+IN_LOW
+IOBase
+IPSR
+IRQ_FALLING
+IRQ_RISING
+IRQ_SM0
+IRQ_SM1
+IRQ_SM2
+IRQ_SM3
+IjFl?p5
+ImportError
+IndentationError
+IndexError
+J 1F:D(F
+J 9F F
+J cl
+J!2*v.
+J!B'{0
+J!MdH{>
+J"],
+J#,)R"M
+J#F(F
+J$1'
+J)F F
+J)F2
+J-F? G
+J0 F
+J0PcQEF
+J1DK9
+J1PF
+JBJA
+JF(F!h
+JF0F
+JF1F F
+JF1F(F
+JF@F
+JFAF
+JFAF0F
+JFCFPF
+JFKF@F6I
+JFQFsh0h
+JOIN_NONE
+JOIN_RX
+JOIN_TX
+JSON
+JZ`?2Z`
+JZ~?(
+J_|?
+Jf`B
+Jl?h\d?
+JupG8
+Jx :
+K	L`0/b
+K F]]
+K U 
+K!F(FS
+K"7)
+K#a F8
+K%`c`8
+K'.*
+K(FC
+K(qs`
+K**7T<
+K,A:
+K0CE
+K0F#`%
+K0F#f
+K1(F
+K1FC
+K?(c<?YO%?H
+K@FIF
+KB	S
+KC(:
+KF F
+KF*FGIHH
+KF:FAF(F
+KFBF!F8F
+KFBF9F
+KFLF
+KJ F
+KJAO
+KPFA
+KZ]1F F
+KZ`pG
+K`B#
+K`{1D
+KbpO
+KeyError
+KeyboardInterrupt
+KhF!h
+KpG@h
+KpGpG
+Ksb?
+L			
+L!p0
+L"L#
+L#:1
+L#r)
+L$u&
+L.=?
+L0 F
+L0'c
+L0T;
+L=33s?
+L>H+=
+LFO:
+LF]F
+LIFH
+LITTLE_ENDIAN
+LNCS5P'
+LOWPASS
+Ljh^
+LookupError
+Lp#ir+k
+L~?p
+M ?-
+M"@1
+M$P/
+MERF
+MF8F+F
+MPY: soft reboot
+MSDOS5.0
+MX"+i
+McFD8
+MemoryError
+MicroPython
+MicroPython-1.26.0-preview-arm--with-newlib4.4.0
+MinSizeRel
+Ms'1
+N	}	`
+N O P 
+N#<(@)b&
+N#x*h1h
+N$\/
+N(O'
+N+F0h
+N3p#h
+N4hd
+N;h0h
+N?,~??
+NATIVE
+NO NAME    FAT     
+NO NAME    FAT32   
+NOSERIAL
+NameError
+Nfr?4
+NlA1/
+No DMA channels are available
+No spinlocks are available
+None
+None,
+NoneType
+NotImplemented
+NotImplementedError
+Nov 18 2025
+Nu?i
+N}McC
+O a!l
+O!(F
+O!e'
+O!jF
+O"3&
+O"].E3n9
+O#N"
+O$d%
+O&),
+O'=+w)7"
+O.Z5U3
+O3H8
+O:N:K4hO
+OF?f
+OFrb2b
+OIOH	
+ONE_SHOT
+OOON;xs
+OOOOOO
+OPEN_DRAIN
+OSError
+OUT_HIGH
+OUT_LOW
+OUUY
+Oah?
+OcPfF"7
+Oc`;i
+OrderedDict
+OverflowError
+P!}+
+P"c,
+P#")
+P#xC
+P$D:NDTB
+P$`0
+P%l2
+P&I)*&
+P(w/*1Q0W-t(
+P)2,=/
+P,Jo>X/8
+P0Sm
+PA`p
+PB&p
+PBF9F0F
+PCZh
+PC[hO
+PChp
+PERIODIC
+PFYF
+PFYFBFKF
+PIO 0 SM %d already claimed
+PIO 1 SM (%d - 4) already claimed
+PIO 2 SM (%d - 8) already claimed
+PIO(%u)
+PIPH
+PJ#D
+PN"F1F(F
+POPJ
+PULL_DOWN
+PULL_UP
+P`s`
+Ph1F
+Pin(%q, mode=%q
+PinAF
+Plus any modules on the filesystem
+Pxh(
+Pxl(
+Q!Q&%
+Q!l!J
+Q"K'
+Q#/!I
+Q&F&
+Q(%s)
+Q(<8
+Q)A5
+Q.x5
+Q/(<
+QBQA
+QC#`+h"h
+QF F
+QF(F
+QF2F	
+QF@F
+QFhFkanF
+QWK]]
+Qf|?
+QkkXa
+R	I	
+R	p	\
+R 6 @0
+R FIF
+R SmH
+R!F8F
+R!_$
+R"=.
+R##pcpa#A"r!
+R%F2
+R)!1S2B(
+R)F F
+R+;2
+R-t0\)
+R0#i
+R=|D
+R?$|g?
+R?m)
+REVERB
+RF F
+RF(F
+RF)F0F
+RF1F
+RF1F F
+RF8F
+RF9F F
+RFYF8F
+RF[F
+RIFF
+RO?P
+RPT"
+RRaA(
+Rh?h
+Rhak
+RingIO
+Rm?DOv?
+RuntimeError
+S			
+S F#J
+S o 
+S#I 
+S$g"q
+S%A0
+S)F0F 
+S,J%_
+S1F(F
+S9F0F&J
+S?E1
+SAMPLE
+SBSA
+SBSA#s F
+SBSA#s0F
+SBSA#u#
+SF2F
+SFJF(Fyh.`
+SHAKE:
+SHIFT_LEFT
+SHIFT_RIGHT
+SJ#D
+STRUCT
+Sh1F
+ShLh
+Si'+
+Sp@#
+SpKx
+StateMachin
+StateMachine
+StateMachine(%u)
+StopAsyncIteration
+StringIO
+SyntaxError
+SystemExit
+T	{?
+T e!
+T!K*g&M
+T!R!D
+T!^+
+T"$7%HdPZP;JQ?
+T%	3
+T+kD
+T<?gB[?gB
+T@J>
+TEENAGE ENGINEERING
+TF!F@F
+TINGDISK
+TN3hC
+TUVWXYZ]3[247=J58>KANFS?L@M_<I:GDQCPER;HBO^6
+T`g?e
+TcjC
+TextIOWrapper
+Thumb
+Thumb assembly
+Timer
+TinyUSB callback
+TpGpG-
+TrU?O
+Traceback (most recent call last):
+True
+Type "help()" for more information.
+U %+
+U!F8F
+U"R)](`!
+U#f8
+U&Ho
+U/-'
+U2l>B
+U;?9
+UDSD
+UD]D
+UH7f
+UINT
+UINT64
+ULONG
+ULONGLONG
+ULVVN
+USB REPL
+USBDevice
+USHORT
+Uncaught exception in IRQ callback handler
+Unhandled IRQ 0x%x
+UnicodeError
+U})p
+V *-)+
+V#C%.#
+V%I8M4
+V&G/
+V,E?#
+V,u3}/
+VB?x
+VOID
+VWTURSPQ^_
+ValueError
+VfsFat
+VfsLfs2
+VfsRom
+ViperTypeError
+V{k"F
+W <"
+W E$
+W I-
+W!l')'
+W" .
+W"d 
+W#a)
+W&:-
+W'Z#
+W)HGQNaAi:P9
+WAVE
+WHRK
+WM?S
+X T!v!
+X!DoH
+X!P'
+X&T*"#?
+X'53
+X)F2h F
+X,s2:.k+</
+X/{;
+X@4#
+XBXA
+XBXA8
+XBXA@
+XBXApG
+XBXApGpG
+XF2K
+XFSFBF9F
+XFtI
+XF{`
+X]`(
+XhjF
+XipG
+Xx.(@
+Y	Z	C
+Y 9 
+Y!(F
+Y#*"
+Y#k08/
+Y%f.$-
+Y&6*
+Y&r0
+Y)^+
+YB,J
+YBYA$.
+YF F
+YF(F
+YFcy
+YFpy
+YJ Y
+YOe?
+YYYYYY
+YbpG
+Yh h
+Yh+F
+Z!G$
+Z$'4
+Z(^)8
+Z65-
+Z>![
+ZBZA
+ZF)F0F
+ZF1FHF
+ZF9Fsh0h
+ZFAF8F
+ZFIF(h
+ZFzK
+ZIZH
+ZU?niE?
+Z`3h
+Z`pG
+ZeroDivisionError
+ZhY`2
+ZjSh
+[ }(@)
+[#1!
+[#:#
+[#^#0
+[$6(O"
+[%7+
+[*^.{"
+[+K9
+[+O2T,	
+[;y?
+[AYC	
+[AZC
+[Errno %d] %q
+[F9F0F
+[FIF(h
+[FRF
+[I[H
+[a?\
+[c?0cZ?
+[i8D
+[k?v
+[khj
+[o)F
+[x.+
+[xUFX
+[yh{zHh
+\ *4
+\!$&
+\"5+
+\"U.J4g-
+\)b.
+\-t;j:
+\/+%
+\3v<
+\B\A
+\D\E
+\IhC
+\U%08x
+\i?Z
+\u%04x
+\x%02x
+]	D!
+] +$
+]!?'}-
+]"]$
+]#A-
+]$	&e#=
+]'J<
+]($#
+])t>41
+]*C-z'
+]1?)
+]3t?#?
+]?b,S?*
+]J$Y
+^#!2
+^#%%
+^$E$
+^$^/
+^'#/F4
+^+g5
+^,<r
+^,b?
+^?cFT?
+^B^A
+^DC?
+^F!FO
+^xA.
+_!J0
+_!e"U
+_#K+%.O*<"
+_#V%
+_$"-<3
+_)[-
+_.}125
+_3jC
+_B_A
+_I\H
+__abs__
+__add__
+__aenter__
+__aexit__
+__aiter__
+__and__
+__anext__
+__bases__
+__bool__
+__build_class__
+__call__
+__class__
+__complex__
+__contains__
+__debug__
+__del__
+__delattr__
+__delete__
+__delitem__
+__dict__
+__dir__
+__divmod__
+__enter__
+__eq__
+__exit__
+__file__
+__float__
+__floordiv__
+__ge__
+__get__
+__getattr__
+__getitem__
+__globals__
+__gt__
+__hash__
+__iadd__
+__import__
+__init__
+__init__() should
+__int__
+__invert__
+__isub__
+__iter__
+__le__
+__len__
+__lshift__
+__lt__
+__main__
+__matmul__
+__mod__
+__module__
+__mul__
+__name__
+__ne__
+__neg__
+__new__
+__next__
+__or__
+__path__
+__pos__
+__pow__
+__qualname__
+__radd__
+__rand__
+__repl_print__
+__repr__
+__reversed__
+__rfloordiv__
+__rlshift__
+__rmatmul__
+__rmod__
+__rmul__
+__ror__
+__rpow__
+__rrshift__
+__rshift__
+__rsub__
+__rtruediv__
+__rxor__
+__set__
+__setattr__
+__setitem__
+__str__
+__sub__
+__traceback__
+__truediv__
+__xor__
+_boot_fat
+_boot_fat.py
+_mpy
+_rp2
+_~A9
+`	I+`
+` <&
+` F8
+` Fp
+` M]`
+`!c'
+`"$$
+`"J"IZ`O
+`"K#
+`"uO
+`#E2,>
+`#FO
+`#tky)y#
+`#y"
+`$S1[5
+`$t!|
+`%G)
+`&c+
+`(F	
+`)Da`
+`)o.W'
+`)x#xb`a
+`*F9F F
+`*S/
+`+Dc`0F
+`+V6
+`+z(h
+`,F F8
+`3Zh
+`3[h[
+`6K6I
+`9x#xb`a
+`?rRT?
+`@+x`
+`CaCb
+`FpG
+`FtF
+`FtFGF
+`JhChS@C`
+`KJO
+`K`pG
+`KhC`
+`RF)F
+`ShC`pG
+`Y`)
+`Zh 
+`` F
+``#x*x
+``+x"x
+``Cp
+``hH`
+``hh
+``j[F
+`a FF
+`b0F
+`b`IF
+`c  
+`c`#
+`h1F
+`h;F*FQF	
+`h;F2F
+`ir8
+`k` F
+`pG-
+`pG8
+`pG> 
+`pGC
+`pGLL
+`pGO
+`pGs
+`}?&M
+a :)
+a!@0
+a"R-
+a"z)
+a#)F
+a%Q+82F:
+a*DBaJh
+a*O6
+a+5?(D8C
+a+DF
+a+zC
+a0"8".
+a0.+
+a2b_base64
+a9Ca
+a?+?
+a?]oW?
+a?pq
+a@#S`
+aCoc
+aD01uFD
+aD;F`{
+aE1`
+aH+F
+aKiCa
+aN%FaK
+a`+x
+abi(F
+abmS
+abs_tol
+ac>M,
+acceptable base
+aci#b
+acos
+acosh
+active
+active exception
+adc_ranges
+add special
+add_program
+address
+addressof
+afte
+ah F
+ah x
+ah"iR
+ahb_err
+ahm" F
+align
+alloc_emergency_exception_buf
+allocatio
+allowe
+already executing
+already-subclassed
+amount
+and_
+annotatio
+append
+appendleft
+arch
+args
+argumen
+argument
+argument(s)
+arguments, got
+argv
+array('%c'
+array/bytes
+as global
+asin
+asinh
+asm_pio_encode
+asm_thumb
+assemble
+assign
+assignmen
+async
+async for/with
+atan
+atan2
+atanh
+attribut
+attributes
+au?t-
+audio
+automati
+await
+ax%)
+b F8
+b FG
+b FI
+b!$2
+b!Q/
+b""a
+b#3+"/
+b#L#"
+b#k#
+b2a_base64
+b?PsV?
+b?wjx>
+bAZ/
+bB,xc
+bC@_]
+bEjh
+bK)F2h F
+bKjCb
+b`1F
+b`b  
+balance
+base
+bases
+baudrate
+bcdeEfFgGnosxX%
+bciba"o#a
+bdev
+bh h
+bh#h
+bh)F
+bi0:
+binary op
+binascii
+binding
+bits
+bm)F
+board
+bool
+boot2_w25q080
+bootloader
+bound_method
+branch
+break
+bswap
+bs{CE<
+buffe
+buffer
+buffering
+builtin_driver
+builtins
+busy
+buttons
+bytearray
+bytearray(b
+bytearray_at
+bytecode
+byteorder
+bytes
+bytes_at
+c ?1+@
+c"#"3
+c">;
+c"P(
+c"k)I!%
+c#u 
+c$b2#c1bb
+c&W(q%M
+c/k:@@<A<=
+c? |X?9
+c?}{r?}{
+c@0@1@:
+cBcA
+cJNHK
+cKcpG
+cKkCc
+cYkQc
+c`"pp
+c`(F8
+calcsize
+calibration
+call super().__init__() first
+callabl
+callable
+callback
+can'
+casting
+ccck
+ccm-	^
+cd??%"]?%"
+ceil
+center
+ch#`3jc`4b
+ch+Dc`p
+ch2F
+chJJKICH
+chKE
+chain_to
+channel
+channel closed
+char
+character '%c' (0x%x)
+character,
+chdir
+chip_id
+chjhS@
+chk`
+choice
+chr()
+ci(F
+ci+Dca
+ci.+
+ci5Fr+
+ci[]
+cib+
+cj,J+I#H
+cj[i
+ck0D
+claimed
+clas
+classes
+classmethod
+clear
+closure
+comparison
+compatible
+compile
+compile mode
+comple
+complex
+compressor
+config
+config.json
+const
+constant
+continue
+control_xfer_cb
+conver
+conversio
+converting long
+copy
+copysign
+could not find module '%s'
+cpcx
+cpsid
+cpsie
+create
+cross-feed
+cue 
+cx$+ 
+cx*+,
+cy"y#
+cycles
+c~?sQ_7
+d j T
+d!K0o<
+d#F?2
+d$X'
+d%@.).f'q
+d&G6-B
+d'i4
+d5~?
+dB F
+dB*F
+dEsF
+data
+datetime
+declare
+decode
+default 'except'
+defined
+degrees
+deinit
+delattr
+delete
+deleter
+depth
+deque
+derive
+desc_cfg
+desc_dev
+desc_strs
+dict
+dict_items
+dict_keys
+dict_values
+dict_view
+didn't
+discard
+div/mod
+divide
+divmod
+do binary op between
+do unary op
+doesn'
+dp2?
+dry-level
+dump
+dumps
+dupterm
+dupterm: EOF received, deactivating
+dupterm: Exception in read() method, deactivating: 
+dupterm: Exception in write() method, deactivating: 
+dupterm_notify
+e E 
+e!0F
+e"d" #!#
+e#>/h8
+e)#1\0
+e)F@n
+e*?+j
+e*`.
+e:XK
+e<mU
+eDh$
+eFCF
+eM?7
+e`:x#xb
+echo
+effect
+elif
+else
+empt
+enable
+encoding
+endswith
+enumerate
+ep %02X was already available
+ep_max
+erfc
+errno
+erro
+errorcode
+escapes
+eval
+examine_drive
+except
+exceptions
+exec
+execfile
+exit
+expect
+expecte
+expectin
+expm1
+expressio
+extend
+externa
+extra
+ezcEC
+f P 
+f a*
+f!.#
+f(R3
+f(c2Q:!=	9R/[%
+f/$0
+fFDG
+fFtF
+fMJSn
+fabs
+failed, allocating %u bytes
+failed, heap is locked
+false
+fat/main.py
+fcgc
+fiel
+fields
+file
+filter
+finally
+find self
+flags
+flip
+float
+floor
+flow
+flush
+fmod
+fmt 
+fni+
+fni-
+follows default
+for a list of available modules, type help('modules')
+for further help on a specific object, type help(obj)
+forma
+format
+foun
+fr?9
+freq
+frequency
+frexp
+from_bytes
+fromhex
+fromkeys
+frozen modules
+frozenset
+frozenset(
+fsBsA
+functio
+function
+fx_pos
+fx_primed
+fxsel
+fxtrig
+fz.F
+g!(%
+g"A%
+g'/081e*w
+g'F$L
+g(0,gJ
+g(>0]8c=
+g?b.]?
+gB[?
+gJhI`{
+generato
+generator
+get_temp
+get_vbat
+get_vbus
+getattr
+getcwd
+getrandbits
+getter
+getvalue
+give
+globals
+gmtime
+gq?:
+gz@B
+h F#D
+h FZh
+h F{
+h R+
+h hGh
+h!F0F
+h!i*J	
+h!iL#
+h!y0)
+h"M"(F
+h#0,_2
+h#FQh
+h#k,Z-T$
+h%G&
+h%O;h0
+h&6&
+h&xc
+h(D1FjC
+h)DAC
+h*FP
+h2F9F F
+h2FS
+h2`"i
+h3DYh
+h3F*F`h9D	
+h8F1DiC
+h?7Sa?
+hADHD
+hADO
+hBCj`"y'h
+hCF@
+hD@ F
+hF1h"F
+hFpG
+hHI@H
+hJFAF
+hJ`[h
+hLKS
+hM~?
+hRF9FO
+hRh[
+hVh)FDh&
+hZapG
+h` F
+h`j*F
+h`jk
+h`js
+ha(F
+handle_raw
+handler
+hard
+hasattr
+hash
+hch)D
+hdh F
+heap_lock
+heap_unlock
+help
+hh9	
+hi	ls
+hiFZ
+high
+high_pri
+highpass-cutoff
+hj#F
+hjF F
+hold
+hyQF
+hyi1
+hy~?
+i N+
+i!F(F
+i!FjF(F
+i"F1F8F
+i#*0
+i#babhy
+i#hKE	
+i$%%
+i$>%
+i(FF#1F
+i)F"F8F
+i)FCF
+i*j437
+i+h9F
+i0l i0
+i17?2
+i1F(i
+i1F:F8F
+i8)-
+i8F:F
+i:FAF(F
+iBBBA,H&
+iBiA
+iBi[
+iF(F
+iF0F
+iF@F
+iSF:h	h
+iXhpG
+iZ]"
+i`a`
+icf"a"j#gbabj
+identifie
+ignored GeneratorExit
+ih	H
+ih+h
+iiiiii))))))))))))))))))))
+ilistdir
+imag
+implementation
+implemente
+implicitl
+impor
+import
+in_base
+in_shiftdir
+inc_read
+inc_read_rev
+inc_write
+inc_write_rev
+incompatibl
+incomplet
+incorrect padding
+inde
+indent
+indices
+inline
+input
+insert
+instance lay-out conflict
+instances
+instructio
+int()
+intege
+integers
+intersection
+intersection_update
+invali
+invert
+ioF3F
+ipG7
+irq claimed
+irq_quiet
+isalpha
+isclose
+isdigit
+isdisjoint
+isfinite
+isinf
+isinstance
+islower
+isn'
+isnan
+isspace
+issubclass
+issubclass(
+issubset
+issuperset
+isupper
+iter
+iterable
+iterator
+itf_max
+ix{)
+ix})
+j		$9
+j		>9
+j 1@j
+j >#B!
+j T!
+j!XF
+j"F!F
+j&9%J
+j&91y3
+j'kcd
+j(01
+j)F`j
+j*FQF
+j/F,F
+j1F`j
+j1Fhj
+j4?:
+j9F`j
+jAF`j
+jBFIF
+jB`[j
+jF F
+jF(F
+jF)F
+jF)F(F
+jF8F
+jFD0
+jFj!
+jIF[k`j
+jIF`j
+jJF1F
+jQF`j
+jYF`j
+j`j"!
+j`j9F
+j`jIF
+j`jIm
+j`jO
+j`jRm
+j`j[h
+j`j[k
+j`j[m
+j`j[n
+j`jo
+jhch
+jmp_pin
+join
+just
+just-started
+k X2ZCcP
+k#d$j F
+k%X6
+k(X1
+k(x0}2w(
+k.K;
+k.W;dD
+k2?i
+k44 F
+k4~?
+k?l	e?
+k?zTd?
+kF*F1F8F
+kFJFhFO
+kFhFz`O
+kbd_intr
+kbk3D
+keepends
+key:value
+keywor
+keyword-only
+kh F
+kh h
+kh#`
+kh9F
+kh`h
+khph
+kjCE
+kk)>d
+kk;Dkc
+klw?bo
+known
+kyD.
+l 00
+l",'
+l&F%'
+l?Vff?
+lRj[
+lY? 
+labe
+label
+lambda
+larg
+last
+lbj F
+ldexp
+ldrb
+ldrex
+ldrh
+least 2
+led_control
+led_level
+leds
+len()
+lengt
+less
+lgamma
+libc_ver
+list
+list_loaded
+list_preset
+little
+littlefs
+load
+load_preset
+load_wav
+loads
+loca
+locals
+localtime
+log10
+log2
+long
+lookahead
+loop
+lowpass-cutoff
+lsEL
+lstrip
+m!D+
+m?Js
+m@j		
+mE@&
+mImH
+mZp8
+m`j		
+machine word
+magic
+main
+malformed f-string
+manual
+match any outer indent level
+math
+math domain
+maximum recursion depth exceeded
+maxsize
+mel[h
+mem_info
+memor
+memoryview
+memoryview offset
+message
+metho
+mf?H
+mhj		
+micmute
+micropython
+micropython decorator
+missin
+mkdir
+mkfs
+mktime
+mode
+modf
+module
+module level
+module named
+more
+most
+most r%d
+movt
+movw
+movwt
+multipl
+n `!
+n g8
+n!r)x)@!
+n(F+f
+n*"/
+n*N0
+n+dci
+n=?%
+nF!O
+nativ
+native
+need
+need more than
+needed
+negative factorial
+negative shift count
+newlib
+newline
+next
+nodename
+noisegate
+non-default
+non-hex digit
+nonloca
+nonlocal
+normal
+nothing
+null
+numbe
+numberin
+o S 
+o!u!#
+o"	$
+o$v&J%
+o%7)Z'
+o>^^
+oIoH
+objec
+object
+object 
+odm?
+oh8F
+ohnz8F1F
+on closed file
+on right side
+oneshot
+opcode
+open
+open_itf_cb
+operatio
+opt_level
+ord()
+out_base
+out_shiftdir
+outer
+outsid
+overflo
+ox+/-
+p !%
+p F9F
+p!!*
+p!(z
+p"L(`*](G"5
+p#qcq
+p$u&d&
+p'j.8+
+p(X3
+p)F F
+p+X2
+p,S1u
+p9w@
+p?	9F
+p?Xa
+p?[;y?[;
+p@2 
+p@`G
+p@p!
+pC;`
+pF"WK F
+pG(F
+pG>I
+pG?(p
+pG@Ba
+pG@Bq
+pGAj
+pGChBz
+pGChp
+pGLK
+pGRBc
+pGpGO
+pKxCp
+pL" FIK
+pYp@
+p`FpG 
+pack_ctrl
+pack_into
+parameter
+parity
+pass
+passthrough
+paste mode; Ctrl-C to cancel, Ctrl-D to finish
+path
+pend_throw
+perform relative
+period
+ph+F
+phase
+phr!
+pi+F
+pitch
+pj+F
+pk+F
+pl+F
+platform
+playmode
+pm+F
+pn+F
+po+F
+popitem
+popitem(): dictionary is
+popleft
+positiona
+pow()
+power
+ppGCj
+ppGq
+preset_handle
+preset_lfo
+preset_mods_disable
+preset_param
+preset_shake
+preset_trigger_row
+presets
+print
+print_exception
+prog
+progsize
+property
+protocol
+ptr16
+ptr32
+ptr8
+pull
+pull_thresh
+push
+push_thresh
+pyh)`
+python_callback
+python_compiler
+q"{ 
+q#6,D&(
+q#Dg
+q#rcr
+q$]0
+q'|7
+q(j4$8
+q)F F
+q,m:9A
+q-`?
+q/GF
+q?rMm?
+qB F
+qI F
+qI?C
+qX?^
+q`j[l
+qhxh
+qstr pool: n_pool=%u, n_qstr=%u, n_str_data_bytes=%u, n_total_bytes=%u
+qstr_info
+qzph
+r	5)
+r!,.Q-
+r!Q*
+r!{+
+r"i!
+r"u#
+r#U*=-J'`
+r(U&
+r)~?
+r1<4
+r1?{
+r>y5
+r?7Pl?\
+r?|,y?2
+radians
+raise
+raised StopIteration
+randint
+randrange
+rang
+range(%d, %d
+range(0x110000)
+raw REPL; CTRL-B to exit
+rbit
+read_err
+readblocks
+readinto
+readline
+readlines
+readonly
+readsize
+real
+recurse
+redefine
+registe
+registers
+rel_tol
+release
+remote_wakeup
+remove
+remove_program
+rename
+replace
+repr
+requested
+require
+reraise
+reset_cb
+resource
+restart
+retur
+return
+reused
+reverb
+reverse
+reversed
+rfind
+rh3x
+rhs should
+rindex
+ring_sel
+ring_size
+rmdir
+rom_ioctl
+rom_version
+ror tst$neg(cmp,cmn0orr4mul8bic<mvn
+round
+rp2.py
+rpartition
+rsplit
+rsplit(None,n)
+rstrip
+rx_fifo
+rxbuf
+s "#
+s A"
+s!e$
+s$2"
+s%x#
+s&&.
+s(Q1
+s)l8
+s)n1
+s,/0
+s1F F
+s?%[y?
+s?~<{?~<
+s@FO
+sBsA9F F
+sC*F
+sFaF
+sam_pos
+sam_primed
+samples
+samsel
+samtrig
+sawtooth
+sc`p
+schedule
+schedule queue full
+sdiv
+seed
+seek
+self
+send
+send non-None
+separator
+separators
+sequenc
+serials
+set()
+setattr
+setdefault
+setter
+sh2h
+sh:F
+shC`
+shaker
+shape
+shutdown
+sideset_base
+sign
+silence
+sine
+single
+single '}' encountered
+sizeof
+sjh F$I
+sk1F
+sleep
+sleep_ms
+sleep_us
+slice
+slice step
+slice(
+slices
+small
+sniff_en
+sort
+sorted
+source is
+spG8
+special
+specificatio
+specifie
+speed
+speed mpy
+splitlines
+spring-mix
+square
+stack: %u out of %u
+stack_use
+stall
+startstop
+startswith
+stat
+state_machine
+staticmethod
+statvfs
+stderr
+stdin
+stdout
+step
+step=1 (aka None) are
+stor
+str/bytes objects consistent
+str_max
+strb
+stream
+strex
+strh
+strin
+struct
+submit_xfer
+subscriptable
+substring
+such
+super
+super()
+support item
+support item deletion
+supporte
+switch
+symmetric_difference
+symmetric_difference_update
+synta
+sysname
+t 6-
+t I !
+t"\!
+t#5#
+t-T,.
+t6KCc
+t?j2o?MLw?
+t` Fp
+t`#x
+t`#xUFX
+t`#x]FX
+t``8
+take
+target
+te_rm
+teenage
+teenage.py
+tell
+test
+testleft
+testright
+the form [a, b]
+tick_hz
+ticks interval
+ticks_add
+ticks_cpu
+ticks_diff
+ticks_ms
+ticks_us
+time_ns
+timeout
+timeout_char
+timing
+to_bytes
+toggle
+tpy?#
+treq_sel
+trigger
+true
+trunc
+truncate-divide
+tupl
+tuple
+tx_fifo
+txbuf
+typecode
+types
+u ,)
+u!b(n'
+u"O2`7
+u"P%D(
+u#60
+u#M*
+u$ (
+u%E3
+u&>5
+u&n1
+u'p0
+u+e?=EXC
+u?$G
+u?W{p?@
+uctypes
+uctypes descriptor
+udiv
+uh+x]+
+uint
+umount
+unambiguously get sizeof scalar
+uname
+unexpecte
+unhexlify
+unicode
+uniform
+unindent
+union
+unknow
+unknown named pin "%s"
+unlink
+unmatched '{'
+unpack
+unpack_ctrl
+unpack_from
+unreadable
+unsupporte
+update
+urandom
+used before
+useful control commands:
+user-type
+usys
+utf-8
+utwvqpsr}|
+v	7	I
+v!	.
+v!FO
+v"A+
+v#Z$
+v#hXh#}[
+v(6%
+v*S4{1H)h
+v1.26.0-preview.135.g081620e57
+v1.26.0-preview.135.g081620e57 on 2025-11-18 (GNU 14.2.1 MinSizeRel)
+v5}7a
+v>"8
+valu
+value
+variable referenced before
+vcmp
+vcvt_f32_s32
+vcvt_s32_f32
+version_info
+vf"K
+viper
+vldr
+vmov
+vmrs
+vneg
+vol_comp
+vol_norm
+vp?>"j?
+vsqrt
+vstr
+w 1!
+w!	$
+w!P#
+w!i!
+w##,
+w#,-
+w#O#
+w%F-
+w'l257
+w-625,
+w;o?
+wI F
+wK{?}N
+wY?J
+were
+wet-level
+wh)j
+wh3F
+wh9F
+while
+without
+write_err
+writeblocks
+wron
+x F_+
+x!d'
+x"[,T2
+x"aZxba
+x##&
+x$w1
+x&f/
+x'?/
+x'x/>0 *y
+x(w)
+x)*,
+x0;	+
+x0<	,
+x2hr+
+x3DG
+x?|ev?
+xA(F0
+xK*q
+xLY?
+x_+	
+x_+@
+x`(H
+xq5F
+xs+C
+x{p#x
+y 3'y)
+y }$
+y"+	
+y"++
+y"+5
+y"+<
+y*12!3
+y,*@
+y,+8
+y-.<ND
+y/+7
+y0*?
+y0*@
+y0*p
+y?JZ~?JZ
+y?J`w?S
+yI+	
+yield
+y{)@
+y})O
+z 0%
+z c"!
+z!]0\;
+z!k)`.
+z"Hw
+z#$"v
+z$:%
+z$R#
+z$x(
+z(<C
+z*F4
+z1FC
+z7K8L
+zbFg
+zcEC
+zh0h
+zh{zQh
+zpAY
+zpGS
+zqKrI
+zx**)
+zz?#
+{	t	t
+{ '!$
+{ ,43M
+{ V/
+{!P$
+{!PF
+{#* 1
+{#bch
+{&3+e,
+{(+	
+{.'+2
+{:#b}
+{:xl*
+{?o4
+{B{A
+{IPF
+{YYQc
+{`rh
+{h!F
+{h9x
+{hC`
+{r0, r1, ...}
+|!](
+|"G$
+|#)F F
+|#J+,+
+|#f*
+|#g+
+|&m)
+|'y,g-<+*#>
+|(p9
+|-U0
+|?ZUM8
+|K|IZ]|Hfh
+|P8jCe
+|SB`
+|SC`
+|XE$
+|z|J#
+}	3,^B
+} R 
+} T ]
+} q0y0/
+} s 0
+} t x w y0x0
+} y0 
+} y0.
+} { Z
+}!@s
+}"!'j%	!
+}#\+p-
+}%`3U=
+})..$.
+}?%;88
+}?BY
+}?Kd
+}?RQ
+}SC`
+}{r?
+~ L%/*
+~!1&
+~!H(
+~0I25#Z
+~<{?
+~?37!7y
+~SB`
+~SC`pG
+~SK`
+~hdh

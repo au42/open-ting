@@ -1,0 +1,34 @@
+{
+  "source": "ep-2350_firmware_1_0_6.uf2",
+  "source_sha256": "fb6f97a1fee2ef1237d215799c52fab7173cbb73a92af632b5a371d38db409bf",
+  "uf2_bytes": 1544192,
+  "uf2_blocks": 3016,
+  "base_addr": "0x10000000",
+  "end_addr": "0x100e4800",
+  "segments": [
+    {
+      "file": "seg_10000000.bin",
+      "start": "0x10000000",
+      "end": "0x100b8000",
+      "size": 753664,
+      "family": "RP2350 ARM-S",
+      "sha256": "8a7238e170e1effe594dbcc6a595584c8f71db2edaa85691722d697119807307"
+    },
+    {
+      "file": "seg_100e0000.bin",
+      "start": "0x100e0000",
+      "end": "0x100e4800",
+      "size": 18432,
+      "family": "RP2350 ARM-S",
+      "sha256": "a0d1bfbb0e0b1cfd0282f4d7faed76e6abd93070d7a60cc40e8332a7907a5a19"
+    }
+  ],
+  "picobin": {
+    "file_offset": "0x138",
+    "flash_addr": "0x10000138"
+  },
+  "vector_table": {
+    "initial_sp": "0x20082000",
+    "reset_handler": "0x1000015d"
+  }
+}

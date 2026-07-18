@@ -1,0 +1,3 @@
+UF2 Bootloader v1.0
+Model: EP-2350
+Board-ID: 830002036254102728

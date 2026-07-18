@@ -1,0 +1,59 @@
+=== EP-2350 probe ===
+version: 3.4.0; MICROPYTHON 1.25
+implementation: (name='micropython', version=(1, 26, 0, 'preview'), _machine='EP-2350 1.0.4', _mpy=7942)
+platform: rp2
+path: ['', '.frozen', '/rom', '/rom/lib', '/lib']
+modules: ['rp2']
+
+[ui] __class__, __dict__, __init__, __name__, acc, adc, callback, get_temp, get_vbat, get_vbus, handle, handle_raw, led_control, led_level, leds, shaker, shutdown, sw
+
+[spl] __class__, __dict__, __init__, __name__, init, load_wav, rom, trigger
+
+[fx] __class__, __dict__, __init__, __name__, add, clear, flip, handle, insert, lfo, list_loaded, list_preset, load_preset, map, param, preset, preset_handle, preset_lfo, preset_mods_disable, preset_param, preset_shake, preset_trigger_row, remove, shake, timing
+
+[machine] MISSING (ImportError("no module named 'machine'",))
+
+[rp2] DMA, Flash, StateMachine, __class__, __dict__, __file__, __name__
+
+[vfs] VfsFat, VfsLfs2, VfsRom, __class__, __dict__, __name__, mount, rom_ioctl, umount
+
+[os] VfsFat, VfsLfs2, __class__, __dict__, __name__, chdir, dupterm, dupterm_notify, getcwd, ilistdir, listdir, mkdir, mount, remove, rename, rmdir, sep, stat, statvfs, sync, umount, uname, unlink, urandom
+
+[time] __class__, __dict__, __name__, gmtime, localtime, mktime, sleep, sleep_ms, sleep_us, ticks_add, ticks_cpu, ticks_diff, ticks_ms, ticks_us, time, time_ns
+
+[utime] __class__, __dict__, __name__, gmtime, localtime, mktime, sleep, sleep_ms, sleep_us, ticks_add, ticks_cpu, ticks_diff, ticks_ms, ticks_us, time, time_ns
+
+[json] __class__, __dict__, __name__, dump, dumps, load, loads
+
+[gc] MISSING (ImportError("no module named 'gc'",))
+
+[io] BytesIO, IOBase, StringIO, __class__, __dict__, __name__, open
+
+[array] __class__, __dict__, __name__, array
+
+[struct] __class__, __dict__, __name__, calcsize, pack, pack_into, unpack, unpack_from
+
+[math] __class__, __dict__, __name__, acos, acosh, asin, asinh, atan, atan2, atanh, ceil, copysign, cos, cosh, degrees, e, erf, erfc, exp, expm1, fabs, factorial, floor, fmod, frexp, gamma, inf, isclose, isfinite, isinf, isnan, ldexp, lgamma, log, log10, log2, modf, nan, pi, pow, radians, sin, sinh, sqrt, tan, tanh, tau, trunc
+
+[micropython] RingIO, __class__, __dict__, __name__, alloc_emergency_exception_buf, const, heap_lock, heap_unlock, kbd_intr, mem_info, opt_level, qstr_info, schedule, stack_use
+
+[usb] MISSING (ImportError("no module named 'usb'",))
+
+[usb.device] MISSING (ImportError("no module named 'usb'",))
+
+[uctypes] ARRAY, BFINT16, BFINT32, BFINT8, BFUINT16, BFUINT32, BFUINT8, BF_LEN, BF_POS, BIG_ENDIAN, FLOAT32, FLOAT64, INT, INT16, INT32, INT64, INT8, LITTLE_ENDIAN, LONG, LONGLONG, NATIVE, PTR, SHORT, UINT, UINT16, UINT32, UINT64, UINT8, ULONG, ULONGLONG, USHORT, VOID, __class__, __dict__, __name__, addressof, bytearray_at, bytes_at, sizeof, struct
+
+[select] MISSING (ImportError("no module named 'select'",))
+
+[_thread] MISSING (ImportError("no module named '_thread'",))
+
+[random] __class__, __dict__, __init__, __name__, choice, getrandbits, randint, random, randrange, seed, uniform
+
+[binascii] __class__, __dict__, __name__, a2b_base64, b2a_base64, hexlify, unhexlify
+
+[errno] EACCES, EADDRINUSE, EAGAIN, EALREADY, EBADF, ECONNABORTED, ECONNREFUSED, ECONNRESET, EEXIST, EHOSTUNREACH, EINPROGRESS, EINVAL, EIO, EISDIR, ENOBUFS, ENODEV, ENOENT, ENOMEM, ENOTCONN, EOPNOTSUPP, EPERM, ETIMEDOUT, __class__, __dict__, __name__, errorcode
+
+[machine.USBDevice] ERR ImportError("no module named 'machine'",)
+
+[cwd] /
+[listdir /fat] ['1_.wav', 'readme.pdf', 'System Volume Information', 'probe.txt', '._readme.pdf', 'main.py', '._main.py', '.fseventsd']
