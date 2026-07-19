@@ -101,3 +101,208 @@ Caveats learned the hard way:
 - Recovery from a bad script is always deleting it over USB — MSC is served
   below Python and enumerates regardless. `green + white` at boot is the
   documented backstop.
+
+## Device behaviour learned by testing
+
+None of this is documented by TE. All of it was established on hardware.
+
+- **`SAMPLE` must sit at row 3 or later in a chain.** Earlier rows build and load
+  correctly — verified by reading the chain back out of the engine — but the
+  sample never sounds. TE pads short chains with `NONE` rows specifically to push
+  `SAMPLE` down: factory preset 0 is `NONE -> DELAY -> NONE -> SAMPLE`.
+- **Samples must be explicitly loaded** with `spl.rom(i)` or `spl.load_wav()`.
+  A replacement `main.py` that skips this leaves the slots holding stale engine
+  state: samples work on clean, misbehave inside an fx chain, and **hard-crash
+  the device** when triggered into one.
+- **`ui.leds(n, s)` is a cumulative bar anchored at the top**, not an LED
+  selector. `leds(0)` lights the top LED, `leds(3)` all four, `leds(-1)` none.
+  Individual LEDs cannot be addressed and the bar cannot fill from the bottom.
+- **Modulation `depth` is in the target parameter's own units**, not normalised
+  0..1. The factory robot preset uses `depth 800.0` on `SSB.frequency` (range
+  ±20000). A depth of `0.5` on a Hz-valued parameter is inaudible.
+- **`SSB.frequency` shifts the spectrum linearly in Hz.** Negative bases push a
+  voice's fundamental below 0 Hz where it folds back and cancels, so such a
+  preset is near-silent until modulation lifts it above zero.
+- **`sw(3)` reads pressed from roughly handle 0.37 upward**, not only at the end
+  of travel. Gate any full-pull action on `sw(3)` **and** `handle >= 0.9`.
+- **`fx.list_preset()` / `list_loaded()` / `timing()` / `map()` print, they do
+  not return.** They appear to return `None` because their output goes to the
+  REPL, which has no endpoint.
+- **`fx.timing()` is a DSP profiler.** It reveals an undocumented `compressor`
+  and `noisegate` permanently in the chain, together consuming roughly 3400 of
+  ~3505 cycles.
+- **MicroPython dicts are not insertion-ordered here.** Iterating a modulation
+  dict applied `depth` before `param`. Set `row`, `param`, `depth` explicitly —
+  TE's own `config.json` loader has the same latent bug.
+- **`io.BytesIO` has no `truncate()`** in this build. Track a read offset instead.
+
+### Getting a console
+
+The MicroPython REPL is compiled into the firmware but has no CDC endpoint, so
+prints and tracebacks go nowhere. `os.dupterm()` redirects that stream — but it
+only accepts a **native** stream object. A Python class with `write()`/
+`readinto()` raises `OSError: stream operation not supported`. `io.BytesIO`
+works:
+
+```python
+import os, io
+buf = io.BytesIO()
+os.dupterm(buf)
+fx.list_preset(0)          # now capturable
+data = buf.getvalue()      # no truncate(); track an offset to drain
+```
+
+This is the only way to see anything the firmware prints, and it is what made
+the preset behaviour above discoverable.
+
+## Example: `examples/main.py`
+
+A complete replacement for TE's `main.py`, written against the native `ui`,
+`spl` and `fx` modules. It reimplements TE's button and preset state machine —
+including the `primed` debounce counters — so the device still behaves normally,
+then layers new behaviour on top.
+
+**Controls** are unchanged: orange cycles effects, green cycles samples, white
+triggers the selected sample.
+
+**Presets** (orange cycles `clean → 1 → 2 → 3 → 4`):
+
+| # | Chain | Lever does |
+|---|---|---|
+| 1 | `NONE → HARMONY → NONE → SAMPLE` | pitch **up** to +7 semitones |
+| 2 | `NONE → HARMONY → NONE → SAMPLE` | pitch **down** to −5 semitones |
+| 3 | `HIGHPASS → LOWPASS → DIST → DELAY → SAMPLE` | opens the lo-fi filter |
+| 4 | `SSB → DELAY → REVERB → HIGHPASS → SAMPLE` | sweeps the robot frequency shift |
+
+Preset 4 is TE's factory robot preset copied verbatim. It is **not** autotune —
+the firmware has no pitch detection, `HARMONY` is a fixed-ratio shifter, and
+Python has no access to audio buffers, so pitch correction is not reachable
+without writing new DSP in C.
+
+**LED behaviour:**
+
+- The sample LED blinks fast for ~1.2 s after a sample is triggered. This is a
+  timer, not real playback length — no playback-complete event exists.
+- The effect LED blinks progressively faster as the lever is pulled. A lever
+  movement of ≥0.1 restarts the blink immediately rather than waiting out the
+  current cycle.
+- Pulling the lever fully home **bypasses the effect** and turns the LEDs into a
+  level meter. The meter's input is a **placeholder** driven by `ui.shaker()`,
+  because nothing in `ui`/`spl`/`fx` returns microphone amplitude — see
+  `input_level()`.
+
+There is also an inert reference stub, `_sensors_reference_unused()`, documenting
+how the accelerometer and battery telemetry would be used. It is never called.
+
+## Installing
+
+Copy `examples/main.py` onto the device's USB volume as `main.py`. It shadows
+`/rom/main.py` at boot — no reflashing, no bootloader, no OTP involvement.
+
+```sh
+cp examples/main.py /Volumes/TINGDISK/main.py
+sync
+diskutil eject /Volumes/TINGDISK     # or just unplug
+```
+
+Then power-cycle: press the small button above the USB-C port to switch off, and
+push the handle to start again. `main.py` is only read at boot.
+
+Two practical notes:
+
+- **Verify the copy.** Writes to this device have failed mid-copy and silently
+  left the previous file in place, which looks exactly like a change that did
+  not work. Hash it: `shasum -a256 examples/main.py /Volumes/TINGDISK/main.py`.
+- **macOS writes AppleDouble files.** `xattr -c` the source first, or `dot_clean`
+  the volume afterwards, to avoid wasting part of the 1 MB on `._main.py`.
+
+## Recovery
+
+Mass storage is served **below** Python, so the drive enumerates regardless of
+what a script does. Recovery is always:
+
+1. Connect USB
+2. Delete `main.py` from the volume
+3. Power-cycle — the device boots TE's own `/rom/main.py` and behaves as stock
+
+If the unit will not start at all, hold **green + white** while powering on.
+That is TE's documented recovery path.
+
+### ⚠️ Never write to flash from `main.py`
+
+`main.py` runs on **every boot, including with USB connected.** Writing to the
+filesystem while the host has the volume mounted puts two writers on the same
+flash. In testing this corrupted the FAT, truncated every file to a block
+boundary, and left the device repeatedly dropping off the USB bus. `fsck` could
+only repair by discarding contents.
+
+TE's own `main.py` only ever *reads* at boot, which is why stock firmware never
+hits this.
+
+If a diagnostic must write, it has to either run on **batteries with USB
+unplugged** — powering the unit off before reconnecting — or be gated behind a
+button held at boot so it cannot fire unintentionally. `DEBUG` in
+`examples/main.py` defaults to `False` for this reason.
+
+## Next steps
+
+### Samples are not modulated by the effects
+
+The headline limitation: **the effects process the microphone only.** Samples
+play back clean, in parallel with the processed voice. Preset 3 will not make
+your sample lo-fi, and preset 4 will not robotise it.
+
+This is a structural conflict between two rules, not a bug in the example:
+
+1. TE's documentation says effects placed **after** the `SAMPLE` block process
+   the sample, and a `SAMPLE` block at the end of the chain stays dry.
+2. Testing established that `SAMPLE` **must sit at row 3 or later** or it does
+   not play at all.
+
+Every factory preset resolves this by putting `SAMPLE` last — which means
+**TE's own samples are always dry too.** Placing `SAMPLE` early enough for
+effects to follow it puts it below row 3, where playback stops.
+
+### The untested experiment
+
+Both rules can in principle be satisfied at once: put `SAMPLE` at **row 3** and
+the effects you want applied to it at **rows 4 and beyond**.
+
+Nothing in the factory firmware does this, so it is genuinely unknown. It hinges
+on a distinction the existing evidence cannot settle, because every configuration
+tested so far had `SAMPLE` last:
+
+- If the real rule is "`SAMPLE` at row ≥ 3", this works and gets you modulated
+  samples.
+- If the real rule is "`SAMPLE` must be **last**", it will not play, and
+  per-chain sample effects are impossible this way.
+
+That single test discriminates between them and is the highest-value next
+experiment in this repo.
+
+### Other unexplored routes
+
+- **`BUS` routing.** `config.json` documents a `BUS` key for parallel effect
+  chains, and none of the factory presets we dumped use it. A bus split is the
+  most plausible mechanism for processing the sample independently of the mic.
+- **Runtime chain edits.** `fx.add`, `fx.insert`, `fx.remove` and `fx.clear`
+  mutate a *live* chain. An effect could in principle be inserted after `SAMPLE`
+  at the moment a sample is triggered, and removed afterwards.
+- **`fx.flip` and `fx.map`** are unidentified. `fx.map` takes a string and prints
+  a parameter schema; `fx.flip` is unknown.
+
+### Also open
+
+- **A real input level meter.** Nothing in `ui`/`spl`/`fx` returns audio
+  amplitude, so the meter currently reads `ui.shaker()`. Whether any ADC channel
+  carries a microphone envelope is untested — ADC channels 0–2 stream
+  continuously at ~3 ms, which makes them plausible candidates.
+- **`ui.led_control` / `ui.led_level`** are unprobed. They are the likely path to
+  per-LED or brightness control, which `ui.leds()` cannot do.
+- **An intermittent crash** has been observed with no traceback captured, since
+  logging is disabled by default. Diagnosing it needs button-gated logging so
+  capture can never fire while USB is connected.
+- **USB MIDI / HID / audio** need custom firmware. `machine` and `usb` are not in
+  the build, so USB cannot be reconfigured from Python, and TE's OTP
+  white-labelling disables PICOBOOT so `picotool` cannot reach the device.
+
